@@ -1,0 +1,1 @@
+Podprzestrzenie wektorowe to zbiory zawarte w oryginalnej przestrzeni wektorowej.

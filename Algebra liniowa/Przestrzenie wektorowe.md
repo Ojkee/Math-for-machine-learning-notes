@@ -22,3 +22,7 @@ $$
 $$
 \forall \textbf{x}\in\mathcal{V}:1\cdot \textbf{x} = \textbf{x}
 $$
+### Przykład
+- $\mathcal{V} = \mathbb{R}^n$, gdzie $n\in\mathbb{N}$ oraz jej zdefiniowane działania:
+  - $\textbf{x + y} = (x_1, ... ,x_n) + (y_1, ... , y_n) = (x_1 + y_1, ... , x_n + y_n)$ dla wszystkich $\textbf{x, y} \in \mathbb{R}^n$ 
+  - $\lambda\textbf{x} = \lambda (x_1,...,x_n) = (\lambda x_1,...,\lambda x_n)$ dla wszystkich $\lambda \in \mathbb{R}, \textbf{x}\in\mathbb{R}^n$  
