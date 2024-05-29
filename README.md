@@ -6,5 +6,4 @@ all in polish.
 # I
 Wprowadzenie
 # II 
-[[Algebra liniowa - spis|Algebra liniowa]]
-
+Algebra liniowa
