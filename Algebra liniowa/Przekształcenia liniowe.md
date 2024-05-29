@@ -21,3 +21,9 @@ $$
 - [[Izomorfizm]]
 - [[Endomorfizm]] 
 - [[Automorfizm]]
+- Odwzorowanie $id_V: V\to V$, $\textbf{x} \mapsto \textbf{x}$ nazywamy $\textbf{morfizmem identycznościowym}$ lub $\textbf{automorfizmem}$ V. 
+
+Rozważmy przestrzenie wektorowe $V, W$ i $X$. Wtedy:
+- Dla odwzorowań liniowych $\Phi: V\to W$ i $\Psi: V \to W$, odwzorowanie $\Psi \circ\Phi: V\to W$ również jest liniowe.
+- Jeśli $\Phi:V\to W$ jest izomorfizmem, to $\Phi^{-1}:W\to V$ też jest izomorfizmem.
+- Jeżeli odwzorowania $\Phi: V\to W$ i $\Phi: V\to W$ są liniowe, to $\Phi + \Psi$ i $\lambda\Phi$ (dla $\lambda\in\mathbb{R}$) również jest liniowe.
