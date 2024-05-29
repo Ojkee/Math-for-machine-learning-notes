@@ -1,3 +1,4 @@
+### Definicja
 Rzeczywista przestrzeń wektorowa $V = (\mathcal{V}, +, \cdot)$ jest zbiorem $\mathcal{V}$, na którym określono następujące działania
 $$
 +:\mathcal{V}\times\mathcal{V}\to\mathcal{V}

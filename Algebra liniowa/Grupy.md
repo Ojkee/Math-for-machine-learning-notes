@@ -1,3 +1,4 @@
+### Definicja
 Rozważmy zbiór $\mathcal{G}$ i operację $\otimes:\mathcal{G}\times\mathcal{G}\to\mathcal{G}$ zdefiniowaną na $G :=(\mathcal{G}, \otimes)$ nazywamy grupą, jeżeli spełnione są następujące własności:
 #### Działanie wewnętrzne
 $$

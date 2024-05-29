@@ -1,5 +1,6 @@
-Podprzestrzenie wektorowe to zbiory zawarte w oryginalnej przestrzeni wektorowej. Przydatne w redukcji wymiarowości.
+Podprzestrzenie wektorowe to zbiory zawarte w oryginalnej [[Przestrzenie wektorowe|przestrzeni wektorowej]]. Przydatne w redukcji wymiarowości.
 
+### Definicja
 Niech $V = (\mathcal{V}, +, \cdot)$ będzie przestrzenią wektorową i $\mathcal{U} \subseteq\mathcal{V}, \mathcal{U} \neq \emptyset. U = (\mathcal{U}, +, \cdot)$ nazywamy **podprzestrzenią wektorową** V (lub podprzestrzenią liniową), jeśli U jest przestrzenią wektorową z operacjami + oraz $\cdot$ ograniczonymi do $\mathcal{U} \times \mathcal{U}$ i $\mathbb{R} \times \mathcal{U}$. U jest podprzestrzenią V, zapisujemy jako $U \subseteq V$. 
 
 Aby pokazać, czy $(\mathcal{U}, +, \cdot)$ jest podprzestrzenią V, musimy pokazać, że:
