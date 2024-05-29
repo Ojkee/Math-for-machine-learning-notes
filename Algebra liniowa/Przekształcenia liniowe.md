@@ -16,3 +16,8 @@ $$
 - [[Iniekcja]]
 - [[Surjekcja]]
 - [[Bijekcja]]
+
+#### Szczególne przypadki odwzorowań liniowych
+- [[Izomorfizm]]
+- [[Endomorfizm]] 
+- [[Automorfizm]]
