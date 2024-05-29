@@ -11,8 +11,27 @@ $$
 $$
 	$\lambda_i, \psi_i \in \mathbb{R}$ oraz $\textbf{b}_i \in \mathcal{B}: \lambda_i = \psi_i$ $(i = 1,...,k)$.
 
-Bazą ortogonalną jest baza, której wektory są to siebie prostopadłe.
-Bazą ortonormalną jest baza ortogonalna, której wektory mają długość 1.
-Bazą standardową (kanoniczną) jest baza ortonormalna, której wektory wskazują kierunki osi współrzędnych.
+$\textbf{Bazą ortogonalną}$ jest baza, której wektory są to siebie prostopadłe.
+$\textbf{Bazą ortonormalną}$ jest baza ortogonalna, której wektory mają długość 1.
+$\textbf{Bazą standardową}$ (kanoniczną) jest baza ortonormalna, której wektory wskazują kierunki osi współrzędnych.
 
+Każda przestrzeń wektorowa V ma bazę $\mathcal{B}$ oraz może mieć ich kilka. 
 
+#### Wyznaczanie bazy na przykładzie
+Mamy podprzestrzeń $U \subseteq \mathbb{R}^5$ generowaną przez wektory:
+$$
+x_1= \mycolv{1\\2\\-1\\-1\\-1}, x_2=\mycolv{2\\-1\\1\\2\\-2}, x_3=\mycolv{3\\-4\\3\\5\\-3}, x_4= \mycolv{-1\\8\\-5\\-6\\1}\in \mathbb{R^5} 
+$$
+Aby sprawdzić czy są [[Niezależność liniowa|liniowo niezależne]] musimy rozwiązać równanie:
+$$
+\sum_{i=1}^4\lambda_ix_i = \textbf{0}
+$$
+Układamy macierz:
+$$
+\left[x_1,x_2,x_3,x_4\right]= \begin{bmatrix} 1 & 2 & 3 & -1 \\2&-1&-4&8\\-1&1&3&-5\\-1&2&5&-6\\-1&-2&-3&1\end{bmatrix}
+$$
+Po przekształceniach otrzymujemy:
+$$
+ \begin{bmatrix} 1&2&3&-1\\0&1&2&-2\\0&0&0&1\\0&0&0&0\\0&0&0&0\end{bmatrix}
+$$
+Wartości wiodące postaci schodkowej pokazują wektory liniowo niezależne. Są nimi $x_1, x_2, x_4$. Oraz jedynym rozwiązaniem $\lambda_1x_1 + \lambda_2x_2 + \lambda_3x_3 =\textbf{0}$ jest $\lambda_1 = \lambda_2 = \lambda_4 = 0$. Stąd bazą $U$ jest zbiór $\{x_1, x_2, x_3\}$. 
