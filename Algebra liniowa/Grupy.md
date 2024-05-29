@@ -23,7 +23,7 @@ Grupa jest grupą abelową jeżeli dodatkowo jest spełniony warunek
 $$
 \forall x,y\in \mathcal{G}: x\otimes y = y \otimes x
 $$
-## Przykłady
+### Przykłady
 - $(\mathbb{Z}, +)$ jest grupą abelową
 - $(\mathbb{N}_0, +)$ nie jest grupą. Posiada element neutralny (0), ale nie ma elementów odwrotnych
 - $(\mathbb{R}, \cdot)$ nie jest grupą, ponieważ 0 nie posiada elementu odwrotnego
