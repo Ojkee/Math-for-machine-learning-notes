@@ -20,6 +20,7 @@ Każda przestrzeń wektorowa V ma bazę $\mathcal{B}$ oraz może mieć ich kilka
 #### Wyznaczanie bazy na przykładzie
 Mamy podprzestrzeń $U \subseteq \mathbb{R}^5$ generowaną przez wektory:
 $$
+\newcommand\mycolv[1]{\begin{bmatrix}#1\end{bmatrix}}
 x_1= \mycolv{1\\2\\-1\\-1\\-1}, x_2=\mycolv{2\\-1\\1\\2\\-2}, x_3=\mycolv{3\\-4\\3\\5\\-3}, x_4= \mycolv{-1\\8\\-5\\-6\\1}\in \mathbb{R^5} 
 $$
 Aby sprawdzić czy są [[Niezależność liniowa|liniowo niezależne]] musimy rozwiązać równanie:

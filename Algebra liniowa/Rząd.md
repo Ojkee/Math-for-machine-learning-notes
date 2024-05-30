@@ -7,3 +7,4 @@ Rząd to liczba [[Niezależność liniowa|liniowo niezależnych]] kolumn macierz
 - Wiersze macierzy $\textbf{A}\in \mathbb{R}^{m\times n}$ generują podprzestrzeń $W \subseteq \mathbb{R}^n$ o wymiarze $\dim(W) = rz(\textbf{A})$. Bazę podprzestrzeni $W$ można znaleźć, stosując eliminację Gaussa na macierzy $\textbf{A}^T$.
 - Dla wszystkich $\textbf{A}\in\mathbb{R}^{n\times n}$, $\textbf{A}$ jest odwracalna wtedy i tylko wtedy, gdy $rz(\textbf{A}) = n$. 
 - Dla $\textbf{A}\in\mathbb{R}^{n\times n}$ podprzestrzeń rozwiązań $\textbf{Ax=0}$ ma wymiar $n-rz(\textbf{A})$, tę przestrzeń nazywamy jądrem.
+
