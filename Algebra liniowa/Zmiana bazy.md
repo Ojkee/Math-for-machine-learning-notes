@@ -18,3 +18,4 @@ $$
 Gdzie $\textbf{S}\in\mathbb{R}^{n\times n}$ jest macierzą przekształcenia identycznościowego $id_V$, które odwzorowuje [[Współrzędne|współrzędne]] w bazie $\tilde{B}$ na współrzędne w bazie $B$, a $\textbf{T}\in\mathbb{R}^{m\times m}$ jest macierzą przekształcenia $id_W$, które odwzorowuje współrzędne w bazie $\tilde{C}$ na $C$. 
 
 Dowód znajduje się na stronach 62-63.
+
