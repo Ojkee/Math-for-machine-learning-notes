@@ -1,0 +1,1 @@
+[[Przestrzenie wektorowe|Przestrzeń]], która nie posiada początku układu [[Współrzędne|współrzędnych]], czyli nie jest już [[Podprzestrzenie wektorowe|podprzestrzenią wektorową]].
