@@ -7,3 +7,5 @@ all in polish.
 Wprowadzenie
 # II 
 Algebra liniowa
+# III
+Geometria analityczna
