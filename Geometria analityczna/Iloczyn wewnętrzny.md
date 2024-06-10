@@ -1,0 +1,1 @@
+Uogólniony [[Iloczyn skalarny|iloczyn skalarny]]. 
