@@ -1,0 +1,1 @@
+[[Ortogonalność|Ortogonalne]] wektory $\boldsymbol{x}$ i $\boldsymbol{y}$ są ortonormalne, gdy $\|\boldsymbol{x}\|=1=\|\boldsymbol{y}\|$. 

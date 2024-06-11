@@ -9,11 +9,7 @@ Niech $V = (\mathcal{V}, +, \cdot)$ będzie przestrzenią wektorową oraz $\math
 $$
 \textbf{x} = \sum_{i=1}^k\lambda_i\textbf{b}_i=\sum_{i=1}^k\psi_i\textbf{b}_i
 $$
-	$\lambda_i, \psi_i \in \mathbb{R}$ oraz $\textbf{b}_i \in \mathcal{B}: \lambda_i = \psi_i$ $(i = 1,...,k)$.
-
-$\textbf{Bazą ortogonalną}$ jest baza, której wektory są to siebie prostopadłe.
-$\textbf{Bazą ortonormalną}$ jest baza ortogonalna, której wektory mają długość 1.
-$\textbf{Bazą standardową}$ (kanoniczną) jest baza ortonormalna, której wektory wskazują kierunki osi współrzędnych.
+$\lambda_i, \psi_i \in \mathbb{R}$ oraz $\textbf{b}_i \in \mathcal{B}: \lambda_i = \psi_i$ $(i = 1,...,k)$.
 
 Każda przestrzeń wektorowa V ma bazę $\mathcal{B}$ oraz może mieć ich kilka. 
 

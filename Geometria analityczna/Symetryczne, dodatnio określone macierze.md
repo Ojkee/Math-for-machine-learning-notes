@@ -12,3 +12,18 @@ $$
 \forall\boldsymbol{x}\in V \textbackslash\{\boldsymbol{0}\}:\boldsymbol{x^TAx}\gt0
 $$
 jest nazywana symetryczną macierzą dodatnio określoną, ale kiedy znak $\gt$ zastąpimy znakiem $\ge$ w powyższym równaniu to taką macierz nazywamy macierzą symetryczną dodatnio półkreśloną (nieujemnie kreśloną).
+
+Jeśli macierz $\boldsymbol{A}\in\mathbb{R}^{n\times n}$ jest symetryczna i dodatnio określona, to
+$$
+\langle\boldsymbol{x,y}\rangle=\hat{\boldsymbol{x}}^T\boldsymbol{A}\hat{\boldsymbol{y}}
+$$
+definiuje iloczyn wewnętrzny w uporządkowanej bazie $B$, gdzie $\hat{\boldsymbol{x}}$ i $\hat{\boldsymbol{y}}$ są współrzędnymi $\boldsymbol{x, y}\in V$ w bazie $B$.
+
+#### Twierdzenie
+Iloczyn $\langle\cdot,\cdot\rangle:V\times V\to \mathbb{R}$ w bazie $B$ i skończonej [[Przestrzenie wektorowe|przestrzeni wektorowej]] $V$ jest iloczynem wewnętrznym wtedy i tylko wtedy, gdy istnieje symetryczna, dodatnio określona macierz $\boldsymbol{A}\in\mathbb{R}^{n\times n}$ taka, że
+$$
+\langle\boldsymbol{x,y}\rangle=\hat{\boldsymbol{x}}^T\boldsymbol{A}\hat{\boldsymbol{y}}
+$$
+Dla takiej macierzy mamy zależności:
+- $ker(\boldsymbol{A})$ składa się tylko z $\boldsymbol{0}$, ponieważ $\boldsymbol{x^TAx}\gt0$ dla wszystkich $\boldsymbol{x}\neq\boldsymbol{0}$. Z tego wynika, że $\boldsymbol{Ax}\neq\boldsymbol{0}$, jeśli $\boldsymbol{x}\neq\boldsymbol{0}$.
+- Elementy na przekątnej $\boldsymbol{A}$ $(a_{i,i})$ są dodatnie, ponieważ $\boldsymbol{e^T_iAe_i}\gt0$, gdzie $\boldsymbol{e}_i$ jest $i$-tym wektorem bazy standardowej przestrzeni $\mathbb{R}^n$.

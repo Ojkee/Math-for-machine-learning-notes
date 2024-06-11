@@ -1,0 +1,1 @@
+$\textbf{Bazą standardową}$ (kanoniczną) jest [[Baza ortonormalna|baza ortonormalna]], której wektory wskazują kierunki osi współrzędnych.
