@@ -1,4 +1,4 @@
-Wewnętrzność dodawania i mnożenia wektorów przez skalar gwarantuje, że otrzymamy inny wektor należący do tej samej [[Przestrzenie wektorowe|przestrzeni]] wektorowej. Zbiór wektorów, za pomocą, których stosując dodawanie i skalowanie, możemy przedstawić każdy wektor określonej przestrzeni nazywamy bazą.
+Wewnętrzność dodawania i mnożenia wektorów przez skalar gwarantuje, że otrzymamy inny wektor należący do tej samej [[Przestrzenie wektorowe|przestrzeni]] wektorowej. Zbiór wektorów, za pomocą, których stosując dodawanie i skalowanie, możemy przedstawić każdy wektor określonej przestrzeni nazywamy [[Bazy|bazą]].
 
 ### Definicja 
 Rozważmy przestrzeń wektorową V i skończoną liczbę wektorów $x_1,...,x_n \in V$. Każdy wektor $\mathcal{v} \in V$ taki, że:
