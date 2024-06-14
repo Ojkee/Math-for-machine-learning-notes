@@ -7,7 +7,7 @@ $$
 \newcommand\mycolv[1]{\begin{bmatrix}#1\end{bmatrix}}
 \Phi(\boldsymbol{e}_1)=\mycolv{cos\Theta\\sin\Theta}\;\;\;\;\;\Phi(\boldsymbol{e}_2)=\mycolv{-sin\Theta\\cos\Theta}
 $$
-![[Screenshot from 2024-06-14 02-11-09.png]]
+![[Screenshot from 2024-06-14 02-11-09 1.png]]
 W tym przykładzie macierz obrotu ma postać
 $$
 \boldsymbol{R}(\Theta)=[\Phi(\boldsymbol{e}_1) \:\Phi(\boldsymbol{e}_2)]=

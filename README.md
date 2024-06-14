@@ -1,4 +1,4 @@
-Notes for this book:
+Obsidian vault notes for this book:
 https://mml-book.github.io/
 
 all in polish.
