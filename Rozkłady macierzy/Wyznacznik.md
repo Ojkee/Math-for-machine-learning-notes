@@ -12,6 +12,11 @@ $$
 Przykładowe wzory na obliczenie wyznacznika:
 - [[Reguła Sarrusa]]
 - [[Rozwinięcie Laplace'a]]
+- Wyznacznikiem macierzy $\boldsymbol{A}\in\mathbb{R}^{n\times n}$ jest iloczyn jej [[Wartości i wektory własne|wartości własnych]]:
+$$
+\det(\boldsymbol{A})=\prod^{n}_{i=1}\lambda_i,
+$$
+gdzie $\lambda_i\in\mathbb{C}$ są wartościami własnymi.
 
 Własności wyznacznika macierzy $\boldsymbol{A}\in\mathbb{R}^{n\times n}$:
 - $\det(\boldsymbol{AB})=\det(\boldsymbol{A})\det(\boldsymbol{B})$
@@ -23,3 +28,4 @@ Własności wyznacznika macierzy $\boldsymbol{A}\in\mathbb{R}^{n\times n}$:
 - Zamiana dwóch wierszy/kolumn zamienia znak wyznacznika.
 
 Macierz $\boldsymbol{A}\in\mathbb{R}^{n\times n}$ ma $\det(\boldsymbol{A})\neq0$ wtedy i tylko wtedy, gdy $rz(\boldsymbol{A})=n$. 
+

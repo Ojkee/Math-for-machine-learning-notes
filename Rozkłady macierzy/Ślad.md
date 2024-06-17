@@ -4,6 +4,12 @@ tr(\boldsymbol{A}):=\sum^n_{i=1}a_{ii}
 $$
 czyli suma wartości na przekątnej $\boldsymbol{A}$. 
 
+Ślad macierzy $\boldsymbol{A}\in\mathbb{R}^{n\times n}$ jest sumą jej [[Wartości i wektory własne|wartości własnych]]:
+$$
+tr(\boldsymbol{A})=\sum^n_{i=1}\lambda_i
+$$
+gdzie $\lambda_i$ są wartościami własnymi $\boldsymbol{A}$.
+
 #### Własności:
 - Dla $\boldsymbol{A,B}\in\mathbb{R}^{n\times n}:tr(\boldsymbol{A+B})=tr(\boldsymbol{A})+tr(\boldsymbol{B})$
 - Dla $\alpha\in\mathbb{R}$ i $\boldsymbol{A}\in\mathbb{R}^{n\times n}:tr(\alpha\boldsymbol{A})=\alpha tr(\boldsymbol{A})$ 
