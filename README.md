@@ -9,3 +9,6 @@ Wprowadzenie
 Algebra liniowa
 # III
 Geometria analityczna
+# IV
+Rozkład macierzy
+
