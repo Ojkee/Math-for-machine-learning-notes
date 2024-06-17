@@ -1,0 +1,2 @@
+- Dwa wektory skierowane w tym samym kierunku są współkierunkowe. 
+- Dwa wektory są współliniowe, jeśli wskazują w tym samym lub przeciwnym kierunku.

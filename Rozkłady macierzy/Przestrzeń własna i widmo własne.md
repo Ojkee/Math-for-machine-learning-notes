@@ -1,0 +1,2 @@
+Zbiór wszystkich [[Wartości i wektory własne|wektorów własnych]] macierzy $\boldsymbol{A}\in\mathbb{R}^{n\times n}$ związanych z wartością własną własną $\lambda$ generuje [[Podprzestrzenie wektorowe|podprzestrzeń]] $\mathbb{R}^n$ nazywaną przestrzenią własną macierzy $\boldsymbol{A}$ w odniesieniu do wartości własnej $\lambda$ i oznaczaną $E_\lambda$. 
+Zbiór wszystkich wartości własnych $\boldsymbol{A}$ nazywa się widmem własnym lub spektrum macierzy $\boldsymbol{A}$.

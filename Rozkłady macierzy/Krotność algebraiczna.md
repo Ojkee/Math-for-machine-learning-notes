@@ -1,0 +1,1 @@
+Załóżmy, że $\lambda_i$ jest [[Wartości i wektory własne|wartością własną]] kwadratowej macierzy $\boldsymbol{A}$. Krotność algebraiczna wartości własnej $\lambda_i$ to liczba wystąpień tego pierwiastka w postaci iloczynowej [[Wielomian charakterystyczny|wielomianu charakretystycznego]].
