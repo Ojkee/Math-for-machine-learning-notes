@@ -16,3 +16,6 @@ $$
 
 #### Przykład
 ![[Screenshot from 2024-06-18 19-14-21.png]]![[Screenshot from 2024-06-18 19-14-37.png]]
+
+#### Interpretacja geometryczna
+![[Screenshot from 2024-06-18 20-02-49.png]]
