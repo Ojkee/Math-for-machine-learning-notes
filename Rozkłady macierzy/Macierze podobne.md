@@ -1,0 +1,1 @@
+Macierze $\boldsymbol{A}$ i $\boldsymbol{D}$ są podobne, jeśli istnieje odwracalna macierz $\boldsymbol{P}$ taka, że $\boldsymbol{D=P^{-1}AP}$. 

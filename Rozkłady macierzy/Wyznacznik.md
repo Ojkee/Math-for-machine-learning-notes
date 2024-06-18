@@ -22,7 +22,7 @@ Własności wyznacznika macierzy $\boldsymbol{A}\in\mathbb{R}^{n\times n}$:
 - $\det(\boldsymbol{AB})=\det(\boldsymbol{A})\det(\boldsymbol{B})$
 - $\det(\boldsymbol{A})=\det(\boldsymbol{A}^T)$
 - Jeżeli $\boldsymbol{A}$ jest odwracalne to $\det(\boldsymbol{A}^{-1})=\frac{1}{\det(\boldsymbol{A})}$
-- Macierze podobne mają ten sam wyznacznik. Z tego powodu wszystkie macierze $\boldsymbol{A}_\Phi$ odwzorowania liniowego $\Phi:V\to V$ mają ten sam wyznacznik. Jest więc niezmienny względem bazy odwzorowania liniowego.
+- [[Macierze podobne]] mają ten sam wyznacznik. Z tego powodu wszystkie macierze $\boldsymbol{A}_\Phi$ odwzorowania liniowego $\Phi:V\to V$ mają ten sam wyznacznik. Jest więc niezmienny względem bazy odwzorowania liniowego.
 - Dodawanie wielokrotności kolumny/wiersza innej kolumny/wiersza nie wpływa na wartość wyznacznika.
 - Przemnożenie kolumny/wiersza przez $\lambda\in\mathbb{R}$ skaluje wyznacznik $\lambda$ razy. W szczególności $\det(\lambda\boldsymbol{A})=\lambda^n\det(\boldsymbol{A})$.
 - Zamiana dwóch wierszy/kolumn zamienia znak wyznacznika.

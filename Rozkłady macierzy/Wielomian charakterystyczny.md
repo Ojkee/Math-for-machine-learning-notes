@@ -10,3 +10,4 @@ $$
 c_{n-1}=(-1)^{n-1}tr(\boldsymbol{A})
 $$
 Wielomian ten pozwala obliczać [[Wartości i wektory własne|wartości i wektory własne]].
+

@@ -27,7 +27,7 @@ Jeżeli $\lambda$ jest wartością własną macierzy $\boldsymbol{A}\in\mathbb{R
 $$
 \boldsymbol{Ax}=\lambda\boldsymbol{x}\Leftrightarrow\boldsymbol{Ax}-\lambda\boldsymbol{x}=\boldsymbol{0}\Leftrightarrow(\boldsymbol{A}-\lambda\boldsymbol{I})\boldsymbol{x}=\boldsymbol{0}\Leftrightarrow\boldsymbol{x}\in\ker(\boldsymbol{A}-\lambda{I})
 $$
-- Macierze podobne mają te same wartości własne. ą zatem odwzorowanie liniowe $\Phi$ ma wartości własne, które są niezależne od bazy jego macierzy transformacji. To sprawia, że wartości własne, [[Wyznacznik|wyznacznik]] i [[Ślad|ślad]] to kluczowe parametry charakteryzujące odwzorowanie liniowe, bo wszystkie nie zmieniają się w przypadku [[Zmiana bazy|zmiany bazy]].
+- [[Macierze podobne]] mają te same wartości własne. ą zatem odwzorowanie liniowe $\Phi$ ma wartości własne, które są niezależne od bazy jego macierzy transformacji. To sprawia, że wartości własne, [[Wyznacznik|wyznacznik]] i [[Ślad|ślad]] to kluczowe parametry charakteryzujące odwzorowanie liniowe, bo wszystkie nie zmieniają się w przypadku [[Zmiana bazy|zmiany bazy]].
 - Symetryczne i dodatnio określone macierze mają zawsze dodatnie i rzeczywiste wartości własne.
 
 Wektory własne $\boldsymbol{x_1,...x_n}$ macierzy $\boldsymbol{A}\in\mathbb{R}^{n\times n}$ z $n$ różnymi wartościami własnymi $\lambda_1,...,\lambda_n$ są [[Niezależność liniowa|liniowo niezależne]].
