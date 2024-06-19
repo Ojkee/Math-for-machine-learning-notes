@@ -8,3 +8,5 @@ $$
 \sigma_{k+1}
 $$
 Twierdzenie Eckerta-Younga jawnie określa błąd [[Przybliżenie macierzy|przybliżenia]] $\boldsymbol{A}$ za pomocą macierzy $k$-tego rzędu.
+Z twierdzenia Eckerta-Younga wynika, że możemy wykorzystać [[Rozkład według wartości osobliwych|rozkład według wartości osobliwych]] do zredukowania macierzy $\boldsymbol{A}$ o rzędzie r do macierzy $\boldsymbol{A}$ o rzędzie $k$ w uporządkowany i optymalny sposób. 
+
