@@ -11,4 +11,7 @@ Algebra liniowa
 Geometria analityczna
 # IV
 Rozkład macierzy
+# V 
+Rachunek wektorowy
+
 
