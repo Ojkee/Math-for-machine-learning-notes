@@ -57,3 +57,4 @@ $$
 $$
 
 #### Przykład 
+![[Screenshot from 2024-06-26 00-48-56.png]]

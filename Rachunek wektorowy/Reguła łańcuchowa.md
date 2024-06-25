@@ -44,3 +44,5 @@ $$
 \end{bmatrix}
 }
 $$
+#### Przykład
+![[Screenshot from 2024-06-26 00-50-16.png]]
