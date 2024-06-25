@@ -15,7 +15,7 @@ $$
 f^′(x)+g^′(x)
 $$
 
-Pochodna łańcuchowa:
+Pochodna [[Reguła łańcuchowa|łańcuchowa]]:
 $$
 (g(f(x)))^′=
 (g \circ f)^′= 
