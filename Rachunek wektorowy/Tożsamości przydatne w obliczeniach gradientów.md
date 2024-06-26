@@ -1,6 +1,6 @@
 - $tr(\cdot)$ oznacza [[Ślad|ślad]] macierzy
 - $\det(\cdot)$ oznacza [[Wyznacznik|wyznacznik]] macierzy
-- $\boldsymbol f(\boldsymbol X)^{-1}$ to odwrotność funkcji $\boldsymbol f(\boldsymbol X)$, jeżeli taka istnieje
+- $\boldsymbol f(\boldsymbol X)^{-1}$ to odwrotność [[Funkcja|funkcji]] $\boldsymbol f(\boldsymbol X)$, jeżeli taka istnieje
 
 $$
 \frac{\partial}{\partial \boldsymbol X}\boldsymbol f(\boldsymbol X)^T=

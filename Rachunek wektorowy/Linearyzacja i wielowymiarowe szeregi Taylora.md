@@ -1,4 +1,4 @@
-[[Gradient]] $\nabla f$ funkcji $f$ często wykorzystuje się do lokalnego liniowego przybliżania funkcji $f$ w otoczeniu punktu $\boldsymbol x_0$:
+[[Gradient]] $\nabla f$ [[Funkcja|funkcji]] $f$ często wykorzystuje się do lokalnego liniowego przybliżania funkcji $f$ w otoczeniu punktu $\boldsymbol x_0$:
 $$
 f(\boldsymbol x)\approx
 f(\boldsymbol x_0)+

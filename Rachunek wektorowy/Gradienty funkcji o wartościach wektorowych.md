@@ -1,4 +1,4 @@
-Wektorem wartości funkcji $\boldsymbol{f}:\mathbb R^n\to \mathbb R^m$, która przyjmuje $\boldsymbol{x}=[x_1,\dots,x_n]^T\in\mathbb R^n$, jest
+Wektorem wartości [[Funkcja|funkcji]] $\boldsymbol{f}:\mathbb R^n\to \mathbb R^m$, która przyjmuje $\boldsymbol{x}=[x_1,\dots,x_n]^T\in\mathbb R^n$, jest
 $$
 \boldsymbol{f}(\boldsymbol{x})=
 \begin{bmatrix}

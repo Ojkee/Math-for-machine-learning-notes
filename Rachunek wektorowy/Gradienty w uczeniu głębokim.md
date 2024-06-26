@@ -1,6 +1,6 @@
 Obszar silnie eksploatujący [[Reguła łańcuchowa|regułę łańcuchową]]. 
 
-Mamy funkcję:
+Mamy [[Funkcja|funkcję]]:
 $$
 \boldsymbol y = 
 (f_K\circ f_{K-1}\circ\dots\circ f_1)(\boldsymbol x)=

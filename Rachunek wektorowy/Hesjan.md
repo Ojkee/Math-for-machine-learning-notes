@@ -1,4 +1,4 @@
-Inaczej macierz Hessego, to zbiór wszystkich [[Pochodne cząstkowe|pochodnych cząstkowych]] [[Pochodne wyższych rzędów|drugiego rzędu]]. Jeśli $f(x,y)$ jest funkcją dwukrotnie różniczkowalną, to
+Inaczej macierz Hessego, to zbiór wszystkich [[Pochodne cząstkowe|pochodnych cząstkowych]] [[Pochodne wyższych rzędów|drugiego rzędu]]. Jeśli $f(x,y)$ jest [[Funkcja|funkcją]] dwukrotnie różniczkowalną, to
 $$
 \frac{\partial^2f}{\partial x\partial y}=
 \frac{\partial^2f}{\partial y\partial x}

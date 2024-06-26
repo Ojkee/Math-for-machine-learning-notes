@@ -1,4 +1,4 @@
-Dla $h\gt0$ pochodna $f$ względem $x$ jest zdefiniowana jako granica
+Dla $h\gt0$ pochodna [[Funkcja|funkcji]] $f$ względem $x$ jest zdefiniowana jako granica
 $$
 \frac{df}{dx}:=
 \lim_{x\to\infty}

@@ -1,7 +1,7 @@
 jest to technika, której szczególnym przypadkiem jest [[Gradienty w uczeniu głębokim|propagacji wstecznej]]. 
 Ogólniej to zbiór metod służących do numerycznego wyznaczania [[Gradient|gradientów]] z dokładnością maszynową.
 
-Mając przepływ danych z wejść $\boldsymbol x$ do wyjść $\boldsymbol y$ przez zmienne pośrednie $\boldsymbol a$ i $\boldsymbol b$. Wyznaczając pochodną $\dfrac{\text dy}{\text dx}$, możemy korzystać z [[Reguła łańcuchowa|reguły łańcuchowej]] i zapisać jako:
+Mając przepływ danych z wejść $\boldsymbol x$ do wyjść $\boldsymbol y$ przez zmienne pośrednie $\boldsymbol a$ i $\boldsymbol b$. Wyznaczając [[Pochodna|pochodną]] $\dfrac{\text dy}{\text dx}$, możemy korzystać z [[Reguła łańcuchowa|reguły łańcuchowej]] i zapisać jako:
 $$
 \frac{\text dy}{\text dx}=
 \frac{\text dy}{\text db}

@@ -1,4 +1,4 @@
-Rozważmy funkcję 
+Rozważmy [[Funkcja|funkcję]]
 $$
 f:\mathbb R^D\to \mathbb R
 $$

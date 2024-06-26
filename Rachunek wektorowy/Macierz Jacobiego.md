@@ -27,5 +27,5 @@ xn
 \end{bmatrix}, \qquad
 J(i, j)=\dfrac{\partial f_i}{\partial x_j}
 $$
-Szczególnym przypadkiem równania jest funkcja $f:\mathbb R^n\to \mathbb R^m$, która odwzorowuje wektor $\boldsymbol x\in\mathbb R^n$ na [[Iloczyn skalarny|skalar]] (np. $f(\boldsymbol x)=\sum^n_{i=1}x_i$). Macierz Jacobiego tej funkcji jest wektorem wierszowym. 
+Szczególnym przypadkiem równania jest [[Funkcja|funkcja]] $f:\mathbb R^n\to \mathbb R^m$, która odwzorowuje wektor $\boldsymbol x\in\mathbb R^n$ na [[Iloczyn skalarny|skalar]] (np. $f(\boldsymbol x)=\sum^n_{i=1}x_i$). Macierz Jacobiego tej funkcji jest wektorem wierszowym. 
 

@@ -1,4 +1,4 @@
-[[Pochodna|Pochodne]] cząstkowe funkcji $f:\mathbb{R}^n\to\mathbb{R}$, $\boldsymbol{x}\mapsto f(\boldsymbol{x})$, $\boldsymbol{x}\in\mathbb{R}^n$ $n$-zmiennych $x_1,...,x_n$ są definiowane w następujący sposób:
+[[Pochodna|Pochodne]] cząstkowe [[Funkcja|funkcji]] $f:\mathbb{R}^n\to\mathbb{R}$, $\boldsymbol{x}\mapsto f(\boldsymbol{x})$, $\boldsymbol{x}\in\mathbb{R}^n$ $n$-zmiennych $x_1,...,x_n$ są definiowane w następujący sposób:
 $$
 \frac{\partial f}{\partial x_1}=
 \lim_{h\to 0}\frac{f(x_1+h, x_2,...,x_n)- f(\boldsymbol{x})}{h}

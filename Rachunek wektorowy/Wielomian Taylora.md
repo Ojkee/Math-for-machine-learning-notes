@@ -1,4 +1,4 @@
-Wielomian Taylora $n$-tego stopnia funkcji $f:\mathbb{R}\to\mathbb{R}$ w $x_0$ jest zdefiniowany jako
+Wielomian Taylora $n$-tego stopnia [[Funkcja|funkcji]] $f:\mathbb{R}\to\mathbb{R}$ w $x_0$ jest zdefiniowany jako
 $$
 T_n(x):= \sum_{k=0}^n
 \frac{f^{(k)}(x_0)}{k!}(x-x_0)^k,

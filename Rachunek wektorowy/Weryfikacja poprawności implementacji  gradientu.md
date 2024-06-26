@@ -3,4 +3,4 @@ Do sprawdzania poprawności implementacji możemy wykorzystać różnice kończo
 $$
 \sqrt{\dfrac{\sum_i(dh_i-df_i)^2}{\sum_i(dh_i+df_i)^2}}\lt10^{-6},
 $$
-gdzie $dh_i$ jest przybliżeniem za pomocą różnic skończonych, a $df_i$ jest różniczką funkcji względem $i$-tej zmiennej $x_i$. 
+gdzie $dh_i$ jest przybliżeniem za pomocą różnic skończonych, a $df_i$ jest różniczką [[Funkcja|funkcji]] względem $i$-tej zmiennej $x_i$. 

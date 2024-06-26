@@ -1,4 +1,4 @@
-Rozważmy funkcję $f:\mathbb{R}^2\to\mathbb{R}$ dwóch zmiennych $x_1$ i $x_2$. Niech $x_1(t)$ i $x_2(t)$ będą funkcjami zmiennej $t$. Aby obliczyć [[Gradient|gradient]] $f$ względem $t$, musimy zastosować regułę łańcuchową dla funkcji wielowymiarowych:
+Rozważmy [[Funkcja|funkcję]] $f:\mathbb{R}^2\to\mathbb{R}$ dwóch zmiennych $x_1$ i $x_2$. Niech $x_1(t)$ i $x_2(t)$ będą funkcjami zmiennej $t$. Aby obliczyć [[Gradient|gradient]] $f$ względem $t$, musimy zastosować regułę łańcuchową dla funkcji wielowymiarowych:
 $$
 \frac{\text d f}{\text d t}=
 \begin{bmatrix}
