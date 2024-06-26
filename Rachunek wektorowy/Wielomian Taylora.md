@@ -11,3 +11,4 @@ gdzie $f^{(k)}(x)$ jest $k$-tą [[Pochodna|pochodną]] $f$ w $x_0$, a $\frac{f^{
 
 
 
+
