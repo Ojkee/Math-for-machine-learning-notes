@@ -1,0 +1,3 @@
+Wprowadzamy funkcję $X:\Omega\to\mathcal T$, która przyjmuje element ze [[Przestrzeń zdarzeń elementarnych|zbioru]] $\Omega$ i zwraca określoną wartość $x$ należącą do $\mathcal T$. To przekształcenie $\Omega$ w $\mathcal T$ nazywamy zmienną losową. 
+
+[[Przestrzeń docelowa]], czyli zbiór $\mathcal T$ wartości zmiennej losowej $X$, wskazuje rodzaj przestrzeni probabilistycznej. Gdy $\mathcal T$ jest skończone lub przeliczalne, to zmienną nazywamy dyskretną zmienną losową, a w przypadku ciągłych zmiennych losowych rozważamy rozkłady rozkłady, w których $\mathcal T=\mathbb R$ lub $\mathcal T=\mathbb R^D$. 

@@ -1,0 +1,1 @@
+Rozkłady więcej niż jednej [[Zmienna losowa|zmiennej losowej]] nazywamy rozkładami wielowymiarowymi. Rozważa się w nich wektory zmiennych losowych. Stany tych zmiennych losowych oznacza się jako $\boldsymbol x$.  

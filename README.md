@@ -1,17 +1,20 @@
+# Mathematics for machine learning
+
+
 Obsidian vault notes for this book:
 https://mml-book.github.io/
 
 all in polish.
 
-# I
+## I
 Wprowadzenie
-# II 
+## II 
 Algebra liniowa
-# III
+## III
 Geometria analityczna
-# IV
+## IV
 Rozkład macierzy
-# V 
+## V 
 Rachunek wektorowy
-
-
+## VI
+Prawdopodobieństwo i jego rozkłady
