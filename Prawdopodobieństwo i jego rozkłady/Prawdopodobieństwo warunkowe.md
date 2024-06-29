@@ -1,0 +1,1 @@
+To [[Prawdopodobieństwo brzegowe]], w którym bierzemy pod uwagę przypadki, w których $X=x$ dla wartości, których otrzymujemy $Y=y$. Zapisujemy jako $p(y|x)$. Inaczej $p(\boldsymbol y| \boldsymbol x)$ jest rozkładem warunktowym $\boldsymbol y$ przy zadanym $\boldsymbol x$.

@@ -1,0 +1,1 @@
+[[Prawdopodobieństwo]] brzegowe to prawdopodobieństwo, że $X$ przyjmuje wartość $x$ niezależnie od wartości [[Zmienna losowa|zmiennej losowej]] $Y$. Zapisuje się je wtedy skrótowo jako $p(x)$. Fakt, że zmienna losowa $X$ ma rozkład $p(x)$, zapisujemy jako $X\sim p(x)$. 

@@ -1,4 +1,3 @@
-
 Przestrzeń zdarzeń elementarnych to zbiór wszystkich możliwych wyników eksperymentu. Oznacza się ją zazwyczaj symbolem $\Omega$. 
 
 #### Przykład
