@@ -20,3 +20,25 @@ $$
 \end{bmatrix} \in\mathbb R^D,
 $$ 
 gdzie $\mathbb E_X{}_d$ reprezentuje wartość oczekiwaną względem $d$-tego elementu wektora $\boldsymbol x$.  
+
+Wartość oczekiwana to operator liniowy. Dla funkcji o wartościach rzeczywistych $f(\boldsymbol x)=ag(\boldsymbol x)+bh(\boldsymbol x)$, gdzie $a, b\in\mathbb R$ i $\boldsymbol x\in\mathbb R^D$, otrzymujemy
+$$
+\mathbb E_X(f(\boldsymbol x))=
+\int f(\boldsymbol x)p(\boldsymbol x)\text d\boldsymbol x=
+$$
+$$
+=
+\int[ag(\boldsymbol x)+bh(\boldsymbol x)]p(\boldsymbol x)\text d\boldsymbol x=
+$$
+$$
+=
+a\int g(\boldsymbol x)p(\boldsymbol x)\text d\boldsymbol x +
+b\int h(\boldsymbol x)p(\boldsymbol x)\text d\boldsymbol x =
+$$
+$$
+=
+a\mathbb E_X(g(\boldsymbol x))+
+b\mathbb E_X(h(\boldsymbol x))
+$$
+
+

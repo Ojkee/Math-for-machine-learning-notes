@@ -1,0 +1,1 @@
+Pierwiastek kwadratowy z [[Wariancja|wariancji]]. Często oznaczane jako $\sigma(x)$. 
