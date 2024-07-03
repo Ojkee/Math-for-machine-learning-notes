@@ -24,3 +24,5 @@ Rozkład normalny jest w pełni określony przez średnią i [[Kowariancja|kowar
 
 
 Specjalny przypadek rozkładu Gaussa z zerową średnią i jednostkową kowariancją $(\boldsymbol\micro=\boldsymbol0$ i $\boldsymbol \Sigma=\boldsymbol I$) nazywamy standardowym rozkładem normalnym. 
+
+![[Screenshot from 2024-07-03 15-58-47.png]]
