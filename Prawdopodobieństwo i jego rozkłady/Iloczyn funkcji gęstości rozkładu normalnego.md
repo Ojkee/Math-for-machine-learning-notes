@@ -18,4 +18,10 @@ c=
 	(\boldsymbol a-\boldsymbol b)^T
 \Big)
 $$
+Stała skalowania $c$ może być zapisana w postaci funkcji gęstości rozkładu normalnego $\boldsymbol a$ i $\boldsymbol  b$ z [[Macierz kowariancji|macierzą kowariancji]] $\boldsymbol A+\boldsymbol B$, tj. $c=\mathcal N(\boldsymbol b|\boldsymbol a, \boldsymbol A+\boldsymbol B)=N(\boldsymbol a|\boldsymbol b, \boldsymbol A+\boldsymbol B)$. 
+
+$$
+c=\mathcal N(\boldsymbol b|\boldsymbol a, \boldsymbol A+\boldsymbol B)=N(\boldsymbol a|\boldsymbol b, \boldsymbol A+\boldsymbol B)
+$$
+W tym równaniu ani $\boldsymbol a$, ani $\boldsymbol b$ nie są [[Zmienna losowa|zmiennymi losowymi]]. Jednak ten sposób zapisu $c$  jest bardziej kompaktowy niż ten najdłuższe równanie. 
 
