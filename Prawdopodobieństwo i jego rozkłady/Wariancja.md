@@ -24,3 +24,4 @@ p(x_i)=
 \int p(x_1,\dots,x_D)\text dx_{\backslash i},
 $$
 gdzie $\backslash i$ oznacza wszystkie zamienne poza $i$. 
+
