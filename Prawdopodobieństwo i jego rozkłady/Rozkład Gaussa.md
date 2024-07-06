@@ -14,7 +14,7 @@ p(\boldsymbol x\,\,|\,\,\boldsymbol\micro,\boldsymbol\Sigma)=
 \exp
 \Big(
 	-\frac{1}{2}(\boldsymbol x-\boldsymbol\micro)^T
-	\boldsymbol\Sigma(\boldsymbol x-\boldsymbol\micro)
+	\boldsymbol\Sigma^{-1}(\boldsymbol x-\boldsymbol\micro)
 \Big),
 $$
 gdzie $\boldsymbol x\in\mathbb R^D$.
