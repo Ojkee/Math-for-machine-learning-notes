@@ -1,4 +1,4 @@
-Wariancja [[Zmienna losowa|zmiennej losowej]] $X$ o stanach $\boldsymbol x\in\mathbb R^D$ i [[Średnia|średniej]] $\boldsymbol \micro\in\mathbb R^D$ jest zdefiniowana jako 
+[[Wariancja]] [[Zmienna losowa|zmiennej losowej]] $X$ o stanach $\boldsymbol x\in\mathbb R^D$ i [[Średnia|średniej]] $\boldsymbol \micro\in\mathbb R^D$ jest zdefiniowana jako 
 $$
 \mathbb V_X[\boldsymbol x]=\text{cov}_X[\boldsymbol x, \boldsymbol x] =
 $$
