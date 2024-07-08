@@ -23,3 +23,14 @@ Dla odpowiednio dobranego $\gamma_i$ ciąg $f(x_0)\ge f(x_1)\ge\dots$ jest zbie�
 #### Przykład
 ![[Screenshot from 2024-07-07 20-25-47.png]]
 
+Ta metoda jest metodą optymalizacji 'wsadowej', tj. optymalizacja jest przeprowadzana przy użyciu pełnego zbioru uczącego i odbyta się poprzez aktualizację parametrów zgodnie z poniższym równaniem:
+$$
+\boldsymbol\theta_{i+1}=
+\boldsymbol\theta_i-\gamma_i
+\Big(
+	\nabla L(\boldsymbol\theta_i)
+\Big)^T=
+\boldsymbol\theta_i-\gamma_i\sum^N_{n=1}(\nabla L_n(\boldsymbol\theta_i))^T
+$$
+^aktualizacja-parametrow-gradient-prosty
+dla odpowiednio dobranej długości kroku $\gamma_i$, lecz ta metoda może być kosztowna.  ^a5f9e5

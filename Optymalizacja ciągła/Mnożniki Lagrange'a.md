@@ -1,0 +1,1 @@
+Wprowadźmy mnożniki Lagrange'a $\lambda_i\ge0$ 
