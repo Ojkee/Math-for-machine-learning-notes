@@ -12,7 +12,8 @@ $$
 J(\boldsymbol x)=
 f(\boldsymbol x)+ \sum^m_{i=1}\boldsymbol1(g_i(\boldsymbol x)),
 $$
-gdzie $\boldsymbol 1(z)$ jest nieskończoną funkcją kroku zdefiniowaną jako 
+^funkcja-charakterystyczna
+gdzie $\boldsymbol 1(z)$ jest nieskończoną funkcją kroku zdefiniowaną jako  ^2177d7
 $$
 \boldsymbol 1(z)=
 \begin{equation}
