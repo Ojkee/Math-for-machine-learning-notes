@@ -18,3 +18,6 @@ Rozkład macierzy
 Rachunek wektorowy
 ## VI
 Prawdopodobieństwo i jego rozkłady
+## VII
+Optymalizacja ciągła
+

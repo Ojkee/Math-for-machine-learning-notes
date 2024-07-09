@@ -1,0 +1,1 @@
+Hiperpłaszczyzną wspierająca zbioru [[Optymalizacja wypukła|wypukłego]] nazywamy hiperpłaszczyznę przecinającą zbiór wypukły w taki sposób, że zbiór wypukły znajduje się po jednej stronie hiperpłaszczyzny. 
