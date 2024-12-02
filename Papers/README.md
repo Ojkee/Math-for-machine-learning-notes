@@ -3,7 +3,7 @@
 ## List 
 - [x] [The Annotated Transformer](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/The-Annotated-Transformer.pdf)
 - [x] [The First Law of Complexodynamics](https://scottaaronson.blog/?p=762)
-- [x] [The Unreasonable Effictiveness of Recurrent Neural Networks](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/The-Unreasonable-Effectiveness-of-Recurrent-Neural-Networks.pdf)
+- [x] [The Unreasonable Effectiveness of Recurrent Neural Networks](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/The-Unreasonable-Effectiveness-of-Recurrent-Neural-Networks.pdf)
 - [x] [Understanding LSTM Networks](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Understanding-LSTM-Networks.pdf)
 - [x] [Recurrent Neural Network Regularization](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Recurrent-Neaural-Network-Regularization.pdf)
 - [ ] [Keeping Neural Networks Simple by Minimizing the Description Length of the Weights](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Keeping-Neural-Networks-Simple-by-Minimizing-the-Description-Length-of-the-Weights.pdf)
