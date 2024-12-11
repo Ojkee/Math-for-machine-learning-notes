@@ -12,9 +12,10 @@
 - [x] [Order Matters Sequence To Sequence For Sets](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Order-Matters-Sequence-To-Sequence-For-Sets.pdf)
 - [ ] [GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/GPipe-Easy-Scaling-with-Micro-Batch-Pipeline-Parallelism)
 
-## Other
-- [ ] [Mixing ADAM and SGD: a Combined Optimization Method](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Mixing-ADAM-and-SGD-a-Combined-Optimization-Method.pdf)
-
 ## Source
 [link to blog](https://blog.wangxm.com/2024/06/ilyas-secret-machine-learning-paper-list/)
+
+## Other
+- [ ] [Mixing ADAM and SGD: a Combined Optimization Method](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Mixing-ADAM-and-SGD-a-Combined-Optimization-Method.pdf)
+- [ ] [Generating-Sequences-With-Recurrent-Neural-Networks](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Generating-Sequences-With-Recurrent-Neural-Networks.pdf) 
 
