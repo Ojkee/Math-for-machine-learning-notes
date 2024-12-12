@@ -64,3 +64,30 @@ Using a table, we can then compute $\mu_h$ and  $V_h$ of the output of the hidde
 Since the noise in the outputs of the hidden units is independent, they independently contribute variance to each linear output unit (linearity comes from having only one hidden layer). The noisy weights $w_{h_j}$ also contribute variance to the output units. Since the output units are linear, their outputs $y_j$ are equal to the total inputs they receive $x_j$. On a particular training case, the output $y_j$ of output unit $j$ is a random variable with the following mean and variance:
 ![[Pasted image 20241211153824.png]]
 
+### Letting the data determine the prior
+Up to this moment we assumed the prior distribution to be fixed. That may lead to picking inappropriate values for the weights.
+Authors suggest to optimize mean and variance of that distribution with given data.
+
+#### A more flexible prior distribution for the weights
+Suppose, for example, that there are two Gaussians in the mixture. If one Gaussian has mean 1 and low variance and the other Gaussian has mean 0 and low variance it is very cheap to encode low-variance weights with values near 1 or 0.
+As before, we ignore the cost of communicating the mixture distribution that is to b e used for coding the weights.
+The mixture prior has the form:
+![[Pasted image 20241212144709.png]]
+where $\pi_i$ is the mixing proportion of Gaussian $P_i$. 
+The asymmetric divergence between  mixture prior and the single Gaussian posterior $Q$ for a noisy weight is:
+![[Pasted image 20241212144847.png]]
+This expression is in terms of the $G_i(P_i, Q)$ the asymmetric divergences between the posterior distribution $Q$ and each of the Gaussians $P_i$ in the mixture prior. 
+![[Pasted image 20241212145037.png]]
+
+### A coding scheme that uses a mixture of Gaussians
+1. Randomly pick one of the Gaussians in the mixture 
+![[Pasted image 20241212145204.png]]
+where $r_i$ is its probability.
+2. Communicate the choice of Gaussian to the receiver.
+![[Pasted image 20241212145312.png]]
+3. Communicate the sample value to the receiver using the chosen Gaussian.  
+![[Pasted image 20241212145450.png]]
+So the expected cost of communicating both the choice of Gaussian and tha sample value ginven that choice is:
+![[Pasted image 20241212145548.png]]
+4. After receiving samples from all the posterior weight distributions and also receiving the errors on the training cases with these sampled weights, the receiver can run the learning algorithm and reconstruct the posterior distributions from which the weights are sampled. This allows the receiver to reconstruct all of the $G_i$ and hence to reconstruct the random bits used to choose a Gaussian from the mixture. So the number of "bits back" that must be subtracted from the expected cost in equation (21) is:
+![[Pasted image 20241212145758.png]]

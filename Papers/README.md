@@ -6,7 +6,7 @@
 - [x] [The Unreasonable Effectiveness of Recurrent Neural Networks](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/The-Unreasonable-Effectiveness-of-Recurrent-Neural-Networks.pdf)
 - [x] [Understanding LSTM Networks](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Understanding-LSTM-Networks.pdf)
 - [x] [Recurrent Neural Network Regularization](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Recurrent-Neaural-Network-Regularization.pdf)
-- [ ] [Keeping Neural Networks Simple by Minimizing the Description Length of the Weights](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Keeping-Neural-Networks-Simple-by-Minimizing-the-Description-Length-of-the-Weights.pdf)
+- [x] [Keeping Neural Networks Simple by Minimizing the Description Length of the Weights](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Keeping-Neural-Networks-Simple-by-Minimizing-the-Description-Length-of-the-Weights.pdf)
 - [x] [Pointer Networks](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Pointer-Networks.pdf)
 - [x] [ImageNet Classification with Deep Convolutional Networks](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/ImageNet-Classification-with-Deep-Convolutional-Networks.pdf)
 - [x] [Order Matters Sequence To Sequence For Sets](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Order-Matters-Sequence-To-Sequence-For-Sets.pdf)
