@@ -10,7 +10,8 @@
 - [x] [Pointer Networks](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Pointer-Networks.pdf)
 - [x] [ImageNet Classification with Deep Convolutional Networks](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/ImageNet-Classification-with-Deep-Convolutional-Networks.pdf)
 - [x] [Order Matters Sequence To Sequence For Sets](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Order-Matters-Sequence-To-Sequence-For-Sets.pdf)
-- [ ] [GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/GPipe-Easy-Scaling-with-Micro-Batch-Pipeline-Parallelism)
+- [x] [GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/GPipe-Easy-Scaling-with-Micro-Batch-Pipeline-Parallelism)
+- [ ] [Deep Residual learning for Image Recognition](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Deep-Residual-learning-for-Image-Recognition.pdf)
 
 ## Source
 [link to blog](https://blog.wangxm.com/2024/06/ilyas-secret-machine-learning-paper-list/)
