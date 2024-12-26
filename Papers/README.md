@@ -11,12 +11,11 @@
 - [x] [ImageNet Classification with Deep Convolutional Networks](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/ImageNet-Classification-with-Deep-Convolutional-Networks.pdf)
 - [x] [Order Matters Sequence To Sequence For Sets](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Order-Matters-Sequence-To-Sequence-For-Sets.pdf)
 - [x] [GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/GPipe-Easy-Scaling-with-Micro-Batch-Pipeline-Parallelism)
-- [ ] [Deep Residual learning for Image Recognition](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Deep-Residual-learning-for-Image-Recognition.pdf)
-
+- [x] [Deep Residual learning for Image Recognition](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Deep-Residual-learning-for-Image-Recognition.pdf)
+- [ ] [Multi-Scale Context Aggregation by Deilated Convolutions](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Multi-Scale-Context-Aggregation-by-Deilated-Convolutions.pdf)
 ## Source
 [link to blog](https://blog.wangxm.com/2024/06/ilyas-secret-machine-learning-paper-list/)
 
 ## Other
 - [ ] [Mixing ADAM and SGD: a Combined Optimization Method](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Mixing-ADAM-and-SGD-a-Combined-Optimization-Method.pdf)
 - [ ] [Generating-Sequences-With-Recurrent-Neural-Networks](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Generating-Sequences-With-Recurrent-Neural-Networks.pdf) 
-
