@@ -12,7 +12,9 @@
 - [x] [Order Matters Sequence To Sequence For Sets](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Order-Matters-Sequence-To-Sequence-For-Sets.pdf)
 - [x] [GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/GPipe-Easy-Scaling-with-Micro-Batch-Pipeline-Parallelism)
 - [x] [Deep Residual learning for Image Recognition](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Deep-Residual-learning-for-Image-Recognition.pdf)
-- [ ] [Multi-Scale Context Aggregation by Deilated Convolutions](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Multi-Scale-Context-Aggregation-by-Deilated-Convolutions.pdf)
+- [x] [Multi-Scale Context Aggregation by Dilated Convolutions](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Multi-Scale-Context-Aggregation-by-Dilated-Convolutions.pdf)
+- [ ] [Neural Message Passing for Quantum Chemistry](https://github.com/Ojkee/Math-for-machine-learning-notes/blob/main/Papers/Neural-Message-Passing-for-Quantum-Chemistry.pdf)
+
 ## Source
 [link to blog](https://blog.wangxm.com/2024/06/ilyas-secret-machine-learning-paper-list/)
 
