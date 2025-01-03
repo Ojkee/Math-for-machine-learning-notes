@@ -1,5 +1,5 @@
 ## Concepts 
-- Entropy - Measures how 'random' or 'generic' or 'disordered' system is. Always Increases monotonically.
+- Entropy - measures how 'random' or 'generic' or 'disordered' system is. Always Increases monotonically.
 - Kolmogorov complexity - string x is the length of the shortest computer program that outputs x. The more complex string x, the longer program that produces x.
 
 ![[Pasted image 20241202154452.png]]
