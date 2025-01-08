@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "d411487204e3b9a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "217b107e7001530c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2730aa556168fd9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Papers/Neural Machine Translation by Jointly Learning to Align and Translate/Neural-Machine-Translation-by-Jointly-Learning-to-Align-and-Translate.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Neural-Machine-Translation-by-Jointly-Learning-to-Align-and-Translate"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e9cd8ff01ead3593",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de51aa0bacaed83f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Neural Machine Translation by Jointly Learning to Align and Translate/Neural Machine Translation by Jointly Learning to Align and Translate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neural Machine Translation by Jointly Learning to Align and Translate"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26750fb670ff3367",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca57635e64a797fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "794c5fa3909b0417",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b6bd588ad0d60c9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6733dcfd82a09f45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cda3adf6bf0b37af",
+    "type": "split",
+    "children": [
+      {
+        "id": "446ee21d04fe11e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d23589163ff0d960",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Papers/Neural Machine Translation by Jointly Learning to Align and Translate/Neural Machine Translation by Jointly Learning to Align and Translate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Neural Machine Translation by Jointly Learning to Align and Translate"
+            }
+          },
+          {
+            "id": "3042b20fe89699d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Papers/Keeping Neural Networks Simple by Minimizing the Description Length of the Weights/Keeping Neural Networks Simple by Minimizing the Description Length of the Weights.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Keeping Neural Networks Simple by Minimizing the Description Length of the Weights"
+            }
+          },
+          {
+            "id": "11b5d6a3984e05e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "87f4bc9a890d2fff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Papers/Keeping Neural Networks Simple by Minimizing the Description Length of the Weights/Keeping Neural Networks Simple by Minimizing the Description Length of the Weights.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Keeping Neural Networks Simple by Minimizing the Description Length of the Weights"
+            }
+          },
+          {
+            "id": "a57b4e127c52cf90",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "c2cd01b06929ffc2",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "794c5fa3909b0417",
+  "lastOpenFiles": [
+    "Papers/Neural Machine Translation by Jointly Learning to Align and Translate/Neural-Machine-Translation-by-Jointly-Learning-to-Align-and-Translate.pdf",
+    "Papers/Neural Machine Translation by Jointly Learning to Align and Translate/Neural Machine Translation by Jointly Learning to Align and Translate.md",
+    "Papers/Keeping Neural Networks Simple by Minimizing the Description Length of the Weights/Keeping Neural Networks Simple by Minimizing the Description Length of the Weights.md",
+    "Papers/The First Law of Complexodynamics/The First Law of Complexodynamics.md",
+    "Papers/Multi-Scale Context Aggregation by Dilated Convolutions/Multi-Scale Context Aggregation by Dilated Convolutions.md",
+    "Papers/Recurrent Neural Networks Regularization/Recurrent Neural Network Regularization.md"
+  ]
+}
