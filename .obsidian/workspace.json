@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5c02641cdb14bcde",
+        "id": "decd2a05bb18e46b",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "7826f36f9b24264e",
+            "id": "e030a15fb43b787c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Uni-Math/Algebra I/Arytmetyka modularna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ]
-      },
-      {
-        "id": "24cfc7417d3ec01f",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "c8ee2bea906a7bb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Neural Machine Translation by Jointly Learning to Align and Translate/Neural Machine Translation by Jointly Learning to Align and Translate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neural Machine Translation by Jointly Learning to Align and Translate"
+              "title": "Arytmetyka modularna"
             }
           }
         ]
@@ -55,6 +33,7 @@
       {
         "id": "ca57635e64a797fb",
         "type": "tabs",
+        "dimension": 78.23061630218689,
         "children": [
           {
             "id": "794c5fa3909b0417",
@@ -94,6 +73,23 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "27300ae0ddd9fe2c",
+        "type": "tabs",
+        "dimension": 21.769383697813122,
+        "children": [
+          {
+            "id": "ac12ce0bc539f5e5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -193,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,12 +203,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7826f36f9b24264e",
+  "active": "794c5fa3909b0417",
   "lastOpenFiles": [
+    "Uni-Math/Algebra I/ZZIMGS/Pasted image 20250407180852.png",
+    "Uni-Math/Algebra I/Relacja równoważności.md",
+    "Uni-Math/Algebra I/Modulo.md",
+    "Uni-Math/Algebra I/Kongruencja.md",
+    "Uni-Math/Algebra I/Klasy abstrakcji.md",
+    "Uni-Math/Algebra I/Dzielność.md",
+    "Uni-Math/Algebra I/Dzielenie z resztą.md",
+    "Uni-Math/Algebra I/Arytmetyka modularna.md",
+    "Uni-Math/Algebra I/ZZIMGS/Pasted image 20250407172736.png",
+    "Uni-Math/Algebra I/ZZIMGS/Pasted image 20250407171429.png",
+    "Uni-Math/Algebra I/ZZIMGS/Pasted image 20250407163646.png",
+    "Uni-Math/Algebra I/ZZIMGS/Pasted image 20250407163459.png",
+    "Math-for-machine-learning/Algebra liniowa/Bazy.md",
+    "Math-for-machine-learning/Algebra liniowa/Przestrzenie wektorowe.md",
+    "README.md",
+    "Uni-Math/Algebra I/ZZIMGS",
     "Papers/Neural Machine Translation by Jointly Learning to Align and Translate/Neural-Machine-Translation-by-Jointly-Learning-to-Align-and-Translate.pdf",
     "Uni-Math/Algebra I",
     "Uni-Math",
-    "Math-for-machine-learning/Algebra liniowa/Bazy.md",
     "Math-for-machine-learning/Algebra liniowa/Iniekcja.md",
     "Papers/Neural Machine Translation by Jointly Learning to Align and Translate/Neural Machine Translation by Jointly Learning to Align and Translate.md",
     "Math-for-machine-learning/Algebra liniowa/Przekształcenia liniowe.md",
