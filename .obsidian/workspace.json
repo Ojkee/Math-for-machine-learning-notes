@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni-Math/Algebra I/Arytmetyka modularna.md",
+                "file": "Books/Effective Modern C++/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arytmetyka modularna"
+              "title": "README"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "ca57635e64a797fb",
         "type": "tabs",
-        "dimension": 78.23061630218689,
+        "dimension": 78.23061630218687,
         "children": [
           {
             "id": "794c5fa3909b0417",
@@ -80,7 +80,7 @@
       {
         "id": "27300ae0ddd9fe2c",
         "type": "tabs",
-        "dimension": 21.769383697813122,
+        "dimension": 21.76938369781312,
         "children": [
           {
             "id": "ac12ce0bc539f5e5",
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 376.5
   },
   "right": {
     "id": "cda3adf6bf0b37af",
@@ -203,35 +203,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "794c5fa3909b0417",
+  "active": "e030a15fb43b787c",
   "lastOpenFiles": [
-    "Uni-Math/Algebra I/ZZIMGS/Pasted image 20250407180852.png",
-    "Uni-Math/Algebra I/Relacja równoważności.md",
-    "Uni-Math/Algebra I/Modulo.md",
-    "Uni-Math/Algebra I/Kongruencja.md",
-    "Uni-Math/Algebra I/Klasy abstrakcji.md",
+    "Books/Effective Modern C++/17. Understand special member function generation.md",
+    "Books/Effective Modern C++/README.md",
+    "Books/Effective Modern C++/16. Make const member functions thread safe.md",
+    "Books/Effective Modern C++/15. Use constexpr whenever possible.md",
+    "Books/Effective Modern C++/14. Declare functions noexcept if they won't emit exceptions.md",
+    "Books/Effective Modern C++/13. Prefer const_iterators to iterators.md",
+    "Books/Effective Modern C++/12. Declare overriding functions override.md",
+    "Books/Effective Modern C++/11. Prefer deleted functions to private undefined ones.md",
+    "Books/Effective Modern C++/10. Prefer scoped enums to unscoped enums.md",
+    "Books/Effective Modern C++/9. Prefer alias declarations to typedefs.md",
+    "Books/Effective Modern C++/8. Prefer nullptr to 0 and NULL.md",
+    "Books/Effective Modern C++/7. Distinguish between ()  and {} when creating objects.md",
+    "Books/Effective Modern C++/5. Prefer auto to explicit type declarations.md",
+    "Books/Effective Modern C++/6. Use the explicitly typed initializer idiom when auto deduces undesired types.md",
+    "Books/Effective Modern C++/2. Understand auto type deduction.md",
+    "Books/Math-for-machine-learning/Algebra liniowa/Bijekcja.md",
+    "Books/Effective Modern C++/4. Know how to wiew deduced types.md",
+    "Books/Effective Modern C++/3. Understand decltype.md",
+    "Books/Effective Modern C++/1. Understand template type deduction.md",
+    "Books/Math-for-machine-learning/README.md",
+    "Books/Pattern-recognition-and-machine-learning/README.md",
+    "Books/Effective Modern C++",
+    "Books/Untitled.md",
+    "Books",
+    "Uni-Math/Algebra I/Odwracanie w Z_n.md",
+    "Uni-Math/Algebra I/Równania liniowe w pierścieniach Z_n.md",
+    "Uni-Math/ZZIMGS/Pasted image 20250409204304.png",
+    "Uni-Math/ZZIMGS/Pasted image 20250409204127.png",
+    "Uni-Math/Algebra I/Równania diofantyczne.md",
     "Uni-Math/Algebra I/Dzielność.md",
-    "Uni-Math/Algebra I/Dzielenie z resztą.md",
-    "Uni-Math/Algebra I/Arytmetyka modularna.md",
-    "Uni-Math/Algebra I/ZZIMGS/Pasted image 20250407172736.png",
-    "Uni-Math/Algebra I/ZZIMGS/Pasted image 20250407171429.png",
-    "Uni-Math/Algebra I/ZZIMGS/Pasted image 20250407163646.png",
-    "Uni-Math/Algebra I/ZZIMGS/Pasted image 20250407163459.png",
-    "Math-for-machine-learning/Algebra liniowa/Bazy.md",
-    "Math-for-machine-learning/Algebra liniowa/Przestrzenie wektorowe.md",
-    "README.md",
-    "Uni-Math/Algebra I/ZZIMGS",
+    "Uni-Math/ZZIMGS/Pasted image 20250408220847.png",
+    "Uni-Math/ZZIMGS/Pasted image 20250408220830.png",
+    "Uni-Math/ZZIMGS/Pasted image 20250408220815.png",
+    "Uni-Math/ZZIMGS/Pasted image 20250408220724.png",
+    "Uni-Math/ZZIMGS/Pasted image 20250408220704.png",
+    "Uni-Math/ZZIMGS/Pasted image 20250408215855.png",
+    "Uni-Math/ZZIMGS/Screenshot from 2025-04-08 21-56-48.png",
+    "Uni-Math/ZZIMGS/Pasted image 20250408215709.png",
+    "Uni-Math/ZZIMGS",
     "Papers/Neural Machine Translation by Jointly Learning to Align and Translate/Neural-Machine-Translation-by-Jointly-Learning-to-Align-and-Translate.pdf",
     "Uni-Math/Algebra I",
-    "Uni-Math",
-    "Math-for-machine-learning/Algebra liniowa/Iniekcja.md",
-    "Papers/Neural Machine Translation by Jointly Learning to Align and Translate/Neural Machine Translation by Jointly Learning to Align and Translate.md",
-    "Math-for-machine-learning/Algebra liniowa/Przekształcenia liniowe.md",
-    "Math-for-machine-learning/Algebra liniowa/Surjekcja.md",
-    "Papers/Attention Is All You Need/Attention Is All You Need.md",
-    "Papers/Keeping Neural Networks Simple by Minimizing the Description Length of the Weights/Keeping Neural Networks Simple by Minimizing the Description Length of the Weights.md",
-    "Papers/The First Law of Complexodynamics/The First Law of Complexodynamics.md",
-    "Papers/Multi-Scale Context Aggregation by Dilated Convolutions/Multi-Scale Context Aggregation by Dilated Convolutions.md",
-    "Papers/Recurrent Neural Networks Regularization/Recurrent Neural Network Regularization.md"
+    "Uni-Math"
   ]
 }
