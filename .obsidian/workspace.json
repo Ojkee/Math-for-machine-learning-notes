@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Effective Modern C++/20. Use std..weak_ptr for std..shared_ptr-like pointers that can dangle.md",
+                "file": "Books/Effective Modern C++/23. Understand std..move and std..forward.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20. Use std..weak_ptr for std..shared_ptr-like pointers that can dangle"
+              "title": "23. Understand std..move and std..forward"
             }
           }
         ]
@@ -205,6 +205,9 @@
   },
   "active": "c7f54cb5f8311614",
   "lastOpenFiles": [
+    "Books/Effective Modern C++/22. When using the Pimpl Idiom, define special member functions in the implementation file.md",
+    "Books/Effective Modern C++/23. Understand std..move and std..forward.md",
+    "Books/Effective Modern C++/21. Prefer std..make_unique and std..make_shared to direct use of new.md",
     "Books/Effective Modern C++/20. Use std..weak_ptr for std..shared_ptr-like pointers that can dangle.md",
     "Books/Effective Modern C++/19. Use std..shared_ptr for share-ownership resource management.md",
     "Books/Effective Modern C++/18. Use std..unique_ptr for exclusive-ownership resource management.md",
@@ -228,11 +231,8 @@
     "Books/Effective Modern C++/3. Understand decltype.md",
     "Books/Effective Modern C++/1. Understand template type deduction.md",
     "Books/Math-for-machine-learning/README.md",
-    "Books/Pattern-recognition-and-machine-learning/README.md",
     "Books/Effective Modern C++",
-    "Books/Untitled.md",
     "Books",
-    "Uni-Math/Algebra I/Odwracanie w Z_n.md",
     "Uni-Math/ZZIMGS/Pasted image 20250409204304.png",
     "Uni-Math/ZZIMGS/Pasted image 20250409204127.png",
     "Uni-Math/ZZIMGS/Pasted image 20250408220847.png",
