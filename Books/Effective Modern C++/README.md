@@ -29,3 +29,15 @@ https://ananyapam7.github.io/resources/C++/Scott_Meyers_Effective_Modern_C++.pdf
 [[17. Understand special member function generation]]
 
 ### 4. Smart Pointers
+[[18. Use std..unique_ptr for exclusive-ownership resource management]]
+[[19. Use std..shared_ptr for share-ownership resource management]]
+[[20. Use std..weak_ptr for std..shared_ptr-like pointers that can dangle]]
+[[21. Prefer std..make_unique and std..make_shared to direct use of new]]
+[[22. When using the Pimpl Idiom, define special member functions in the implementation file]]
+
+### 5. Rvalue References, Move Semantics, and Perfect Forwarding 
+[[23. Understand std..move and std..forward]]
+[[24. Distinguish universal references from rvalue references]]
+[[25. Use std..move on rvalue references, std..forward on universal references]]
+[[26. Avoid overloading on universal references]]
+[[27. Familiarize yourself with alternatives to overloading on universal references]]

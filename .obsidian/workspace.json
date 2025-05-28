@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Effective Modern C++/23. Understand std..move and std..forward.md",
+                "file": "Books/Effective Modern C++/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23. Understand std..move and std..forward"
+              "title": "README"
             }
           }
         ]
@@ -203,16 +203,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7f54cb5f8311614",
+  "active": "ac12ce0bc539f5e5",
   "lastOpenFiles": [
-    "Books/Effective Modern C++/22. When using the Pimpl Idiom, define special member functions in the implementation file.md",
+    "Books/Effective Modern C++/README.md",
+    "Books/Effective Modern C++/27. Familiarize yourself with alternatives to overloading on universal references.md",
+    "Books/Effective Modern C++/26. Avoid overloading on universal references.md",
+    "Books/Effective Modern C++/25. Use std..move on rvalue references, std..forward on universal references.md",
+    "Books/Effective Modern C++/24. Distinguish universal references from rvalue references.md",
     "Books/Effective Modern C++/23. Understand std..move and std..forward.md",
+    "Books/Effective Modern C++/22. When using the Pimpl Idiom, define special member functions in the implementation file.md",
     "Books/Effective Modern C++/21. Prefer std..make_unique and std..make_shared to direct use of new.md",
     "Books/Effective Modern C++/20. Use std..weak_ptr for std..shared_ptr-like pointers that can dangle.md",
     "Books/Effective Modern C++/19. Use std..shared_ptr for share-ownership resource management.md",
     "Books/Effective Modern C++/18. Use std..unique_ptr for exclusive-ownership resource management.md",
     "Books/Effective Modern C++/17. Understand special member function generation.md",
-    "Books/Effective Modern C++/README.md",
     "Books/Effective Modern C++/16. Make const member functions thread safe.md",
     "Books/Effective Modern C++/15. Use constexpr whenever possible.md",
     "Books/Effective Modern C++/14. Declare functions noexcept if they won't emit exceptions.md",
@@ -227,10 +231,6 @@
     "Books/Effective Modern C++/6. Use the explicitly typed initializer idiom when auto deduces undesired types.md",
     "Books/Effective Modern C++/2. Understand auto type deduction.md",
     "Books/Math-for-machine-learning/Algebra liniowa/Bijekcja.md",
-    "Books/Effective Modern C++/4. Know how to wiew deduced types.md",
-    "Books/Effective Modern C++/3. Understand decltype.md",
-    "Books/Effective Modern C++/1. Understand template type deduction.md",
-    "Books/Math-for-machine-learning/README.md",
     "Books/Effective Modern C++",
     "Books",
     "Uni-Math/ZZIMGS/Pasted image 20250409204304.png",
