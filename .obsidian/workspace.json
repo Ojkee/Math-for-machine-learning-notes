@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Effective Modern C++/README.md",
+                "file": "Books/Effective Modern C++/30. Familiarize yourself with perfect forwarding failure cases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "30. Familiarize yourself with perfect forwarding failure cases"
             }
           }
         ]
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 308.5
   },
   "right": {
     "id": "cda3adf6bf0b37af",
@@ -203,8 +203,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac12ce0bc539f5e5",
+  "active": "c7f54cb5f8311614",
   "lastOpenFiles": [
+    "Books/Effective Modern C++/29. Assume that move operations are not present, not cheap, and not used.md",
+    "Books/Effective Modern C++/30. Familiarize yourself with perfect forwarding failure cases.md",
+    "Books/Effective Modern C++/28. Understand reference collapsing.md",
     "Books/Effective Modern C++/README.md",
     "Books/Effective Modern C++/27. Familiarize yourself with alternatives to overloading on universal references.md",
     "Books/Effective Modern C++/26. Avoid overloading on universal references.md",
@@ -228,9 +231,6 @@
     "Books/Effective Modern C++/8. Prefer nullptr to 0 and NULL.md",
     "Books/Effective Modern C++/7. Distinguish between ()  and {} when creating objects.md",
     "Books/Effective Modern C++/5. Prefer auto to explicit type declarations.md",
-    "Books/Effective Modern C++/6. Use the explicitly typed initializer idiom when auto deduces undesired types.md",
-    "Books/Effective Modern C++/2. Understand auto type deduction.md",
-    "Books/Math-for-machine-learning/Algebra liniowa/Bijekcja.md",
     "Books/Effective Modern C++",
     "Books",
     "Uni-Math/ZZIMGS/Pasted image 20250409204304.png",
