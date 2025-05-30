@@ -41,3 +41,15 @@ https://ananyapam7.github.io/resources/C++/Scott_Meyers_Effective_Modern_C++.pdf
 [[25. Use std..move on rvalue references, std..forward on universal references]]
 [[26. Avoid overloading on universal references]]
 [[27. Familiarize yourself with alternatives to overloading on universal references]]
+[[28. Understand reference collapsing]]
+[[29. Assume that move operations are not present, not cheap, and not used]]
+[[30. Familiarize yourself with perfect forwarding failure cases]]
+
+### 6. Lambda Expressions
+[[31. Avoid default capture modes]]
+[[32. Use init capture to move objects into closures]]
+[[33. Use decltype on auto&& parameters to std..forward them]]
+[[34. Prefer lambdas to std..bind]]
+
+### 7. The Concurrency API
+[[35. Prefer task-based programming to thread-based]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Effective Modern C++/30. Familiarize yourself with perfect forwarding failure cases.md",
+                "file": "Books/Effective Modern C++/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30. Familiarize yourself with perfect forwarding failure cases"
+              "title": "README"
             }
           }
         ]
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 235.5
   },
   "right": {
     "id": "cda3adf6bf0b37af",
@@ -205,13 +205,24 @@
   },
   "active": "c7f54cb5f8311614",
   "lastOpenFiles": [
-    "Books/Effective Modern C++/29. Assume that move operations are not present, not cheap, and not used.md",
-    "Books/Effective Modern C++/30. Familiarize yourself with perfect forwarding failure cases.md",
-    "Books/Effective Modern C++/28. Understand reference collapsing.md",
+    "Books/Effective Modern C++/35. Prefer task-based programming to thread-based.md",
     "Books/Effective Modern C++/README.md",
+    "Books/Effective Modern C++/34. Prefer lambdas to std..bind.md",
+    "Books/Effective Modern C++/33. Use decltype on auto&& parameters to std..forward them.md",
+    "Books/Effective Modern C++/32. Use init capture to move objects into closures.md",
+    "Books/Effective Modern C++/31. Avoid default capture modes.md",
+    "Books/Math-for-machine-learning/Algebra liniowa/Przestrzenie wektorowe.md",
+    "Books/Math-for-machine-learning/Algebra liniowa/Grupy.md",
+    "Books/Math-for-machine-learning/Algebra liniowa/Podprzestrzenie wektorowe.md",
+    "Books/Math-for-machine-learning/Algebra liniowa/Jądro.md",
+    "Books/Effective Modern C++/25. Use std..move on rvalue references, std..forward on universal references.md",
+    "Books/Effective Modern C++/17. Understand special member function generation.md",
+    "Books/Effective Modern C++/1. Understand template type deduction.md",
+    "Books/Effective Modern C++/30. Familiarize yourself with perfect forwarding failure cases.md",
+    "Books/Effective Modern C++/29. Assume that move operations are not present, not cheap, and not used.md",
+    "Books/Effective Modern C++/28. Understand reference collapsing.md",
     "Books/Effective Modern C++/27. Familiarize yourself with alternatives to overloading on universal references.md",
     "Books/Effective Modern C++/26. Avoid overloading on universal references.md",
-    "Books/Effective Modern C++/25. Use std..move on rvalue references, std..forward on universal references.md",
     "Books/Effective Modern C++/24. Distinguish universal references from rvalue references.md",
     "Books/Effective Modern C++/23. Understand std..move and std..forward.md",
     "Books/Effective Modern C++/22. When using the Pimpl Idiom, define special member functions in the implementation file.md",
@@ -219,18 +230,7 @@
     "Books/Effective Modern C++/20. Use std..weak_ptr for std..shared_ptr-like pointers that can dangle.md",
     "Books/Effective Modern C++/19. Use std..shared_ptr for share-ownership resource management.md",
     "Books/Effective Modern C++/18. Use std..unique_ptr for exclusive-ownership resource management.md",
-    "Books/Effective Modern C++/17. Understand special member function generation.md",
     "Books/Effective Modern C++/16. Make const member functions thread safe.md",
-    "Books/Effective Modern C++/15. Use constexpr whenever possible.md",
-    "Books/Effective Modern C++/14. Declare functions noexcept if they won't emit exceptions.md",
-    "Books/Effective Modern C++/13. Prefer const_iterators to iterators.md",
-    "Books/Effective Modern C++/12. Declare overriding functions override.md",
-    "Books/Effective Modern C++/11. Prefer deleted functions to private undefined ones.md",
-    "Books/Effective Modern C++/10. Prefer scoped enums to unscoped enums.md",
-    "Books/Effective Modern C++/9. Prefer alias declarations to typedefs.md",
-    "Books/Effective Modern C++/8. Prefer nullptr to 0 and NULL.md",
-    "Books/Effective Modern C++/7. Distinguish between ()  and {} when creating objects.md",
-    "Books/Effective Modern C++/5. Prefer auto to explicit type declarations.md",
     "Books/Effective Modern C++",
     "Books",
     "Uni-Math/ZZIMGS/Pasted image 20250409204304.png",
