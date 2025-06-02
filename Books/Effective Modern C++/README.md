@@ -53,3 +53,11 @@ https://ananyapam7.github.io/resources/C++/Scott_Meyers_Effective_Modern_C++.pdf
 
 ### 7. The Concurrency API
 [[35. Prefer task-based programming to thread-based]]
+[[36. Specify std..launch..async if asynchronicity is essential]]
+[[37. Make std..threads unjoinable on all paths]]
+[[38. Be aware of varying thread handle destructor behavior]]
+[[39. Consider void futures for one-shot event communication]]
+[[40. Use std..atomic for concurrency, volatile for special memory]]
+
+### 8. Tweaks
+
