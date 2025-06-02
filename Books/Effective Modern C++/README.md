@@ -60,4 +60,5 @@ https://ananyapam7.github.io/resources/C++/Scott_Meyers_Effective_Modern_C++.pdf
 [[40. Use std..atomic for concurrency, volatile for special memory]]
 
 ### 8. Tweaks
-
+[[41. Consider pass by value for copyable parameters that are chap to move and always copied]]
+[[42. Consider emplacement instead of insertion]]
