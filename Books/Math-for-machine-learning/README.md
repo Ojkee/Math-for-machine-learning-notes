@@ -6,18 +6,18 @@ https://mml-book.github.io/
 
 all in polish.
 
-## I
+### I
 Wprowadzenie
-## II 
+### II 
 Algebra liniowa
-## III
+### III
 Geometria analityczna
-## IV
+### IV
 Rozkład macierzy
-## V 
+### V 
 Rachunek wektorowy
-## VI
+### VI
 Prawdopodobieństwo i jego rozkłady
-## VII
+### VII
 Optymalizacja ciągła
 

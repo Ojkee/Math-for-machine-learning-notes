@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Effective Modern C++/README.md",
+                "file": "Books/Functional Programming in C++/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 287.5
   },
   "right": {
     "id": "cda3adf6bf0b37af",
@@ -205,9 +205,19 @@
   },
   "active": "c7f54cb5f8311614",
   "lastOpenFiles": [
+    "Books/Functional Programming in C++/4. Creating new functions from the old ones.md",
+    "Books/Functional Programming in C++/8..md",
+    "Books/Functional Programming in C++/3. Function objects.md",
+    "Books/Functional Programming in C++/2. Getting started with functional programming.md",
+    "Books/Functional Programming in C++/1. Introduction to functional programming.md",
+    "Books/Functional Programming in C++/README.md",
+    "Books/Effective Modern C++/README.md",
+    "Books/Math-for-machine-learning/README.md",
+    "Books/Pattern-recognition-and-machine-learning/README.md",
+    "Books/Functional Programming in C++",
+    "Books/Untitled.md",
     "Books/Effective Modern C++/8. Tweaks/42. Consider emplacement instead of insertion.md",
     "Books/Effective Modern C++/8. Tweaks/41. Consider pass by value for copyable parameters that are chap to move and always copied.md",
-    "Books/Effective Modern C++/README.md",
     "Books/Effective Modern C++/8. Tweaks",
     "Books/Effective Modern C++/7. The Concurrency API",
     "Books/Effective Modern C++/6. Lambda Expressions",
@@ -230,17 +240,7 @@
     "Books/Effective Modern C++/6. Lambda Expressions/33. Use decltype on auto&& parameters to std..forward them.md",
     "Books/Effective Modern C++/6. Lambda Expressions/32. Use init capture to move objects into closures.md",
     "Books/Effective Modern C++/6. Lambda Expressions/31. Avoid default capture modes.md",
-    "Books/Math-for-machine-learning/Algebra liniowa/Przestrzenie wektorowe.md",
-    "Books/Math-for-machine-learning/Algebra liniowa/Grupy.md",
-    "Books/Math-for-machine-learning/Algebra liniowa/Podprzestrzenie wektorowe.md",
-    "Books/Math-for-machine-learning/Algebra liniowa/Jądro.md",
-    "Books/Effective Modern C++/5. Rvalue References, Move Semantics, and Perfect Forwarding/25. Use std..move on rvalue references, std..forward on universal references.md",
-    "Books/Effective Modern C++/3. Moving to Modern C++/17. Understand special member function generation.md",
-    "Books/Effective Modern C++/1. Deducing Types/1. Understand template type deduction.md",
-    "Books/Effective Modern C++/5. Rvalue References, Move Semantics, and Perfect Forwarding/30. Familiarize yourself with perfect forwarding failure cases.md",
-    "Books/Effective Modern C++/5. Rvalue References, Move Semantics, and Perfect Forwarding/29. Assume that move operations are not present, not cheap, and not used.md",
     "Books/Effective Modern C++",
-    "Books",
     "Uni-Math/ZZIMGS/Pasted image 20250409204304.png",
     "Uni-Math/ZZIMGS/Pasted image 20250409204127.png",
     "Uni-Math/ZZIMGS/Pasted image 20250408220847.png",
