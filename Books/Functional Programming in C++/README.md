@@ -12,5 +12,10 @@ https://www.manning.com/books/functional-programming-in-c-plus-plu
 [[5. Purity. Avoiding mutable state]]
 [[6. Lazy evaluation]]
 [[7. Ranges]]
-
+[[8. Functional data structures]]
+[[9. Algebraic data types and pattern matching]]
+[[10. Monads]]
+[[11. Template metaprogramming]]
+[[12. Functional design for concurrent systems]]o
+[[13. Testing and debugging]]
 
