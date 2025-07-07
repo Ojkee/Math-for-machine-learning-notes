@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Real World OCaml-Functional Programming for the Masses/README.md",
+                "file": "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/10. GADTs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "10. GADTs"
             }
           }
         ]
@@ -205,9 +205,13 @@
   },
   "active": "c7f54cb5f8311614",
   "lastOpenFiles": [
-    "Books/Effective Modern C++/README.md",
-    "Books/Real World OCaml-Functional Programming for the Masses/README.md",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/9. Imperative programming.md",
+    "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/10. GADTs.md",
+    "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/11. Functors.md",
+    "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/12. First-Class Modules.md",
+    "Books/Real World OCaml-Functional Programming for the Masses/README.md",
+    "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/13. Objects.md",
+    "Books/Effective Modern C++/README.md",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/8. Error Handling.md",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/7. Variants.md",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/6. Records.md",
@@ -229,10 +233,6 @@
     "Books/Effective Modern C++/7. The Concurrency API/35. Prefer task-based programming to thread-based.md",
     "Books/Functional Programming in C++/13. Testing and debugging.md",
     "Books/Functional Programming in C++/README.md",
-    "Books/Functional Programming in C++/11. Template metaprogramming.md",
-    "Books/Functional Programming in C++/12. Functional design for concurrent systems.md",
-    "Books/Functional Programming in C++/10. Monads.md",
-    "Books/Functional Programming in C++/9. Algebraic data types and pattern matching.md",
     "Books/Functional Programming in C++/code/cache.cc",
     "Books/Functional Programming in C++/code/memofib.cc",
     "Books/Functional Programming in C++/code",

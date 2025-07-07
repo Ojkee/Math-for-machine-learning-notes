@@ -13,5 +13,8 @@ https://dev.realworldocaml.org/
 [[7. Variants]]
 [[8. Error Handling]]
 [[9. Imperative programming]]
-
+[[10. GADTs]]
+[[11. Functors]]
+[[12. First-Class Modules]]
+[[13. Objects]]
 
