@@ -17,4 +17,8 @@ https://dev.realworldocaml.org/
 [[11. Functors]]
 [[12. First-Class Modules]]
 [[13. Objects]]
+[[14. Classes]]
+
+### II Tools and Techniques
+[[15. Maps and Hash Tables]]
 
