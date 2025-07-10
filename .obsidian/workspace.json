@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques/16. Command-Line Parsing.md",
+                "file": "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques/17. Concurrent Programming with Async.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. Command-Line Parsing"
+              "title": "17. Concurrent Programming with Async"
             }
           }
         ]
@@ -205,18 +205,19 @@
   },
   "active": "c7f54cb5f8311614",
   "lastOpenFiles": [
+    "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques/16. Command-Line Parsing.md",
+    "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques/17. Concurrent Programming with Async.md",
+    "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/10. GADTs.md",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/11. Functors.md",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/12. First-Class Modules.md",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/5. Files, Models, and Programs.md",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/13. Objects.md",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/14. Classes.md",
     "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques/15. Maps and Hash Tables.md",
-    "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques/16. Command-Line Parsing.md",
     "Books/Real World OCaml-Functional Programming for the Masses/README.md",
     "Books/Effective Modern C++/README.md",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/7. Variants.md",
     "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques",
-    "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/10. GADTs.md",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/9. Imperative programming.md",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/8. Error Handling.md",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/6. Records.md",
@@ -233,7 +234,6 @@
     "Books/Untitled.md",
     "Books/Effective Modern C++/7. The Concurrency API/38. Be aware of varying thread handle destructor behavior.md",
     "Books/Effective Modern C++/7. The Concurrency API/37. Make std..threads unjoinable on all paths.md",
-    "Books/Effective Modern C++/7. The Concurrency API/36. Specify std..launch..async if asynchronicity is essential.md",
     "Books/Functional Programming in C++/code/cache.cc",
     "Books/Functional Programming in C++/code/memofib.cc",
     "Books/Functional Programming in C++/code",
