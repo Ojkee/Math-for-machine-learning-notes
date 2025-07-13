@@ -24,5 +24,6 @@ https://dev.realworldocaml.org/
 [[16. Command-Line Parsing]]
 [[17. Concurrent Programming with Async]]
 [[18. Testing]]
-
+[[19. Handling JSON Data]]
+[[20. Parsing with OCamllex and Menhir]]
 
