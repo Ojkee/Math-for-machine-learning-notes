@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques/20. Parsing with OCamllex and Menhir.md",
+                "file": "Books/Real World OCaml-Functional Programming for the Masses/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20. Parsing with OCamllex and Menhir"
+              "title": "README"
             }
           }
         ]
@@ -205,8 +205,10 @@
   },
   "active": "c7f54cb5f8311614",
   "lastOpenFiles": [
-    "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques/19. Handling JSON Data.md",
+    "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques/22. The OCaml Platform.md",
+    "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques/21. Data Serialization with S-Expressions.md",
     "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques/20. Parsing with OCamllex and Menhir.md",
+    "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques/19. Handling JSON Data.md",
     "Books/Real World OCaml-Functional Programming for the Masses/README.md",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/8. Error Handling.md",
     "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques/18. Testing.md",
@@ -230,8 +232,6 @@
     "Books/Functional Programming in C++/7. Ranges.md",
     "Books/Functional Programming in C++/5. Purity. Avoiding mutable state.md",
     "Books/Functional Programming in C++/4. Creating new functions from the old ones.md",
-    "Books/Pattern-recognition-and-machine-learning/README.md",
-    "Books/Effective Modern C++/7. The Concurrency API/39. Consider void futures for one-shot event communication.md",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts",
     "Books/Real World OCaml-Functional Programming for the Masses",
     "Books/Functional Programming in C++/code/cache.cc",
