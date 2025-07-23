@@ -1,6 +1,5 @@
 # Effective Modern C++
 
-
 Obsidian vault notes for this book:
 https://ananyapam7.github.io/resources/C++/Scott_Meyers_Effective_Modern_C++.pdf
 

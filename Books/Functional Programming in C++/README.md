@@ -1,6 +1,5 @@
 # Functional Programming in C++
 
-
 Obsidian vault notes for this book:
 https://www.manning.com/books/functional-programming-in-c-plus-plu
 

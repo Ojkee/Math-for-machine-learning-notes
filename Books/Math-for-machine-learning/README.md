@@ -1,6 +1,5 @@
 # Mathematics for machine learning
 
-
 Obsidian vault notes for this book:
 https://mml-book.github.io/
 
