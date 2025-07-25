@@ -7,3 +7,4 @@ https://100go.co/
 [[1. Go. Simple to learn but hard to master]]
 [[2. Code and project organization]]
 [[3. Data types]]
+[[4. Control structures]]

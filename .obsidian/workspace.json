@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/100 Go Mistakes and How to Avoid Them/2. Code and project organization.md",
+                "file": "Books/100 Go Mistakes and How to Avoid Them/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Code and project organization"
+              "title": "README"
             }
           }
         ]
@@ -205,11 +205,12 @@
   },
   "active": "c7f54cb5f8311614",
   "lastOpenFiles": [
-    "Books/100 Go Mistakes and How to Avoid Them/README.md",
+    "Books/100 Go Mistakes and How to Avoid Them/4. Control structures.md",
     "Books/100 Go Mistakes and How to Avoid Them/3. Data types.md",
+    "Books/100 Go Mistakes and How to Avoid Them/2. Code and project organization.md",
+    "Books/100 Go Mistakes and How to Avoid Them/README.md",
     "Books/Functional Programming in C++/README.md",
     "Books/Functional Programming in C++/1. Introduction to functional programming.md",
-    "Books/100 Go Mistakes and How to Avoid Them/2. Code and project organization.md",
     "Books/100 Go Mistakes and How to Avoid Them/1. Go. Simple to learn but hard to master.md",
     "Books/Effective Modern C++/5. Rvalue References, Move Semantics, and Perfect Forwarding/23. Understand std..move and std..forward.md",
     "Books/Real World OCaml-Functional Programming for the Masses/README.md",
@@ -232,7 +233,6 @@
     "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques/17. Concurrent Programming with Async.md",
     "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques/15. Maps and Hash Tables.md",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/11. Functors.md",
-    "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts/12. First-Class Modules.md",
     "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques",
     "Books/Real World OCaml-Functional Programming for the Masses/I Language Concepts",
     "Books/Real World OCaml-Functional Programming for the Masses",
