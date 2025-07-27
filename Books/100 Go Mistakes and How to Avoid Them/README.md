@@ -8,3 +8,8 @@ https://100go.co/
 [[2. Code and project organization]]
 [[3. Data types]]
 [[4. Control structures]]
+[[5. Strings]]
+[[6. Functions and methods]]
+[[7. Error management]]
+[[8. Concurrency. Foundations]]
+[[9. Concurrency. Practice]]
