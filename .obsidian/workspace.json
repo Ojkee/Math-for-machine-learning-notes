@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/100 Go Mistakes and How to Avoid Them/README.md",
+                "file": "Books/100 Go Mistakes and How to Avoid Them/9. Concurrency. Practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "9. Concurrency. Practice"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "c7f54cb5f8311614",
   "lastOpenFiles": [
-    "Books/100 Go Mistakes and How to Avoid Them/9. Concurrency. Practice.md",
     "Books/100 Go Mistakes and How to Avoid Them/README.md",
+    "Books/100 Go Mistakes and How to Avoid Them/9. Concurrency. Practice.md",
     "Books/100 Go Mistakes and How to Avoid Them/8. Concurrency. Foundations.md",
     "Books/100 Go Mistakes and How to Avoid Them/7. Error management.md",
     "Books/100 Go Mistakes and How to Avoid Them/6. Functions and methods.md",
