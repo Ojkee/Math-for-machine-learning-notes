@@ -13,3 +13,6 @@ https://100go.co/
 [[7. Error management]]
 [[8. Concurrency. Foundations]]
 [[9. Concurrency. Practice]]
+[[10. The standard library]]
+[[11. Testing]]
+[[12. Optimizations]]
