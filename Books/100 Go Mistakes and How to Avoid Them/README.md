@@ -1,5 +1,5 @@
 
-# 100 Go 
+# 100 Go Mistakes and How to Avoid Them
 Obsidian vault notes for this book:
 https://100go.co/
 
