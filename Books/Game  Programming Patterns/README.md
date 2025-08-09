@@ -13,3 +13,6 @@ https://gameprogrammingpatterns.com/contents.html
 [[4. Observer]]
 [[5. Prototype]]
 [[6. Singleton]]
+[[7. State]]
+
+### 3. Sequencing Patterns
