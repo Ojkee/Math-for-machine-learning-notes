@@ -8,3 +8,6 @@ https://gameprogrammingpatterns.com/contents.html
 [[1. Architecture, Performance, and Games]]
 
 ### 2. Design Patterns Revised
+[[2. Command]]
+[[3. Flyweight]]
+[[4. Observer]]
