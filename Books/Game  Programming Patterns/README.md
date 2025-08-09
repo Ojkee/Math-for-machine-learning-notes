@@ -11,3 +11,5 @@ https://gameprogrammingpatterns.com/contents.html
 [[2. Command]]
 [[3. Flyweight]]
 [[4. Observer]]
+[[5. Prototype]]
+[[6. Singleton]]
