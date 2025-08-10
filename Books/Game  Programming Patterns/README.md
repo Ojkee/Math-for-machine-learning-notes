@@ -16,3 +16,4 @@ https://gameprogrammingpatterns.com/contents.html
 [[7. State]]
 
 ### 3. Sequencing Patterns
+[[8. Double Buffer]]
