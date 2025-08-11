@@ -17,3 +17,4 @@ https://gameprogrammingpatterns.com/contents.html
 
 ### 3. Sequencing Patterns
 [[8. Double Buffer]]
+[[9. Game Loop]]
