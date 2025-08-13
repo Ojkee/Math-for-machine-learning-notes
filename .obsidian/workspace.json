@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Game  Programming Patterns/README.md",
+                "file": "Books/Game  Programming Patterns/3. Sequencing Patterns/10. Update Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "10. Update Method"
             }
           }
         ]
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 328.5
   },
   "right": {
     "id": "cda3adf6bf0b37af",
@@ -203,18 +203,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a340bc0c6be136fb",
+  "active": "794c5fa3909b0417",
   "lastOpenFiles": [
+    "Books/Game  Programming Patterns/README.md",
+    "Books/Game  Programming Patterns/3. Sequencing Patterns/10. Update Method.md",
     "Books/Game  Programming Patterns/3. Sequencing Patterns/9. Game Loop.md",
-    "Books/Game  Programming Patterns/3. Sequencing Patterns/8. Double Buffer.md",
+    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250813123841.png",
+    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250813123814.png",
+    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250813123225.png",
+    "Books/100 Go Mistakes and How to Avoid Them/12. Optimizations.md",
     "Books/Game  Programming Patterns/2. Design Patterns Revised/2. Command.md",
+    "Books/Game  Programming Patterns/2. Design Patterns Revised/5. Prototype.md",
+    "Books/Game  Programming Patterns/2. Design Patterns Revised/7. State.md",
+    "Books/Game  Programming Patterns/2. Design Patterns Revised/6. Singleton.md",
     "Books/Game  Programming Patterns/2. Design Patterns Revised/3. Flyweight.md",
     "Books/Game  Programming Patterns/2. Design Patterns Revised/4. Observer.md",
-    "Books/Game  Programming Patterns/2. Design Patterns Revised/5. Prototype.md",
-    "Books/Game  Programming Patterns/2. Design Patterns Revised/6. Singleton.md",
-    "Books/Game  Programming Patterns/2. Design Patterns Revised/7. State.md",
+    "Books/Game  Programming Patterns/3. Sequencing Patterns/8. Double Buffer.md",
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250811164642.png",
-    "Books/Game  Programming Patterns/README.md",
     "Books/Game  Programming Patterns/3. Sequencing Patterns",
     "Books/Game  Programming Patterns/1. Introduction/1. Architecture, Performance, and Games.md",
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250810185720.png",
@@ -223,10 +228,7 @@
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250809204620.png",
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250809202805.png",
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250809150647.png",
-    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250809145928.png",
-    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250809145844.png",
     "README.md",
-    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250809133313.png",
     "Books/Game  Programming Patterns/ZZIMGS",
     "Books/Functional Programming in C++/README.md",
     "Books/100 Go Mistakes and How to Avoid Them/README.md",
@@ -238,14 +240,12 @@
     "Books/100 Go Mistakes and How to Avoid Them/5. Strings.md",
     "Books/100 Go Mistakes and How to Avoid Them/4. Control structures.md",
     "Books/100 Go Mistakes and How to Avoid Them/2. Code and project organization.md",
-    "Books/100 Go Mistakes and How to Avoid Them/12. Optimizations.md",
     "Books/100 Go Mistakes and How to Avoid Them/10. The standard library.md",
     "Books/100 Go Mistakes and How to Avoid Them/9. Concurrency. Practice.md",
     "Books/100 Go Mistakes and How to Avoid Them/8. Concurrency. Foundations.md",
     "Books/100 Go Mistakes and How to Avoid Them/7. Error management.md",
     "Books/100 Go Mistakes and How to Avoid Them/3. Data types.md",
     "Books/Functional Programming in C++/1. Introduction to functional programming.md",
-    "Books/100 Go Mistakes and How to Avoid Them/1. Go. Simple to learn but hard to master.md",
     "Books/100 Go Mistakes and How to Avoid Them",
     "Books/Real World OCaml-Functional Programming for the Masses/III The Compiler and Runtime System",
     "Books/Real World OCaml-Functional Programming for the Masses/II Tools and Techiques",
