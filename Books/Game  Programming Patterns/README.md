@@ -19,3 +19,5 @@ https://gameprogrammingpatterns.com/contents.html
 [[8. Double Buffer]]
 [[9. Game Loop]]
 [[10. Update Method]]
+
+### 4. Behavioral Patterns
