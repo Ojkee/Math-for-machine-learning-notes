@@ -22,3 +22,5 @@ https://gameprogrammingpatterns.com/contents.html
 
 ### 4. Behavioral Patterns
 [[11. Bytecode]]
+[[12. Subclass Sandbox]]
+[[13. Type Object]]
