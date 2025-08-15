@@ -24,3 +24,6 @@ https://gameprogrammingpatterns.com/contents.html
 [[11. Bytecode]]
 [[12. Subclass Sandbox]]
 [[13. Type Object]]
+
+### 5. Decoupling Patterns
+[[14. Component]]
