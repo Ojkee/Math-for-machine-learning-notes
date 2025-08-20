@@ -27,3 +27,5 @@ https://gameprogrammingpatterns.com/contents.html
 
 ### 5. Decoupling Patterns
 [[14. Component]]
+[[15. Event Queue]]
+[[16. Service Locator]]
