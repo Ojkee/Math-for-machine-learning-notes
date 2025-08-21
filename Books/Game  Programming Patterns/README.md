@@ -29,3 +29,6 @@ https://gameprogrammingpatterns.com/contents.html
 [[14. Component]]
 [[15. Event Queue]]
 [[16. Service Locator]]
+
+### 6. Optimization Patterns
+[[17. Data Locality]]
