@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0c3b91d98a5fbfdb",
+        "id": "7df7f982ab053c63",
         "type": "tabs",
         "children": [
           {
-            "id": "a340bc0c6be136fb",
+            "id": "4f3df5e46b81c7b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Game  Programming Patterns/6. Optimization Patterns/20. Spatial Partition.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20. Spatial Partition"
+              "title": "New tab"
             }
           }
         ]
@@ -204,10 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a340bc0c6be136fb",
+  "active": "794c5fa3909b0417",
   "lastOpenFiles": [
-    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823200658.png",
     "Books/Game  Programming Patterns/6. Optimization Patterns/20. Spatial Partition.md",
+    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823200658.png",
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823204236.png",
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823201454.png",
     "Books/Game  Programming Patterns/6. Optimization Patterns/19. Object Pool.md",
@@ -250,6 +246,6 @@
     "Books/Game  Programming Patterns/2. Design Patterns Revised",
     "Books/Game  Programming Patterns",
     "Books/100 Go Mistakes and How to Avoid Them",
-    "Books/Game  Programming Patterns/ZZIMGS/Real World OCaml-Functional Programming for the Masses/III The Compiler and Runtime System"
+    "Books/Real World OCaml-Functional Programming for the Masses/III The Compiler and Runtime System"
   ]
 }
