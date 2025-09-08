@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7df7f982ab053c63",
+        "id": "42aa479fb7b6cb76",
         "type": "tabs",
         "children": [
           {
-            "id": "4f3df5e46b81c7b4",
+            "id": "49d07a6e41b572c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2. An Array of Sequences"
             }
           }
         ]
@@ -92,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 201.5
   },
   "right": {
     "id": "cda3adf6bf0b37af",
@@ -200,52 +204,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "794c5fa3909b0417",
+  "active": "49d07a6e41b572c9",
   "lastOpenFiles": [
-    "Books/Game  Programming Patterns/6. Optimization Patterns/20. Spatial Partition.md",
+    "Books/Fluent Python/Part I. Data Structures/1. The Python Data Model.md",
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences.md",
+    "Books/Fluent Python/README.md",
+    "Books/Effective Modern C++/README.md",
+    "Books/100 Go Mistakes and How to Avoid Them/README.md",
+    "Books/Game  Programming Patterns/2. Design Patterns Revised/3. Flyweight.md",
+    "Books/Fluent Python/Part I. Data Structures",
+    "Books/Fluent Python",
+    "Books/Untitled.md",
+    "Books/Game  Programming Patterns/2. Design Patterns Revised/2. Command.md",
+    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250809131831.png",
+    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250809131818.png",
+    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250809131128.png",
+    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250809131251.png",
+    "Books/Game  Programming Patterns/2. Design Patterns Revised/5. Prototype.md",
+    "Books/Game  Programming Patterns/2. Design Patterns Revised/6. Singleton.md",
+    "Books/Game  Programming Patterns/2. Design Patterns Revised/7. State.md",
+    "Books/Game  Programming Patterns/5. Decoupling Patterns/15. Event Queue.md",
+    "Books/Game  Programming Patterns/5. Decoupling Patterns/16. Service Locator.md",
+    "Books/Game  Programming Patterns/5. Decoupling Patterns/14. Component.md",
+    "Books/Game  Programming Patterns/3. Sequencing Patterns/9. Game Loop.md",
+    "Books/Game  Programming Patterns/2. Design Patterns Revised/4. Observer.md",
+    "Books/100 Go Mistakes and How to Avoid Them/12. Optimizations.md",
+    "Books/100 Go Mistakes and How to Avoid Them/10. The standard library.md",
+    "Books/100 Go Mistakes and How to Avoid Them/6. Functions and methods.md",
+    "Books/100 Go Mistakes and How to Avoid Them/5. Strings.md",
+    "Books/Effective Modern C++/5. Rvalue References, Move Semantics, and Perfect Forwarding/30. Familiarize yourself with perfect forwarding failure cases.md",
+    "Books/Effective Modern C++/5. Rvalue References, Move Semantics, and Perfect Forwarding/29. Assume that move operations are not present, not cheap, and not used.md",
+    "Books/Effective Modern C++/5. Rvalue References, Move Semantics, and Perfect Forwarding/28. Understand reference collapsing.md",
+    "Books/Effective Modern C++/5. Rvalue References, Move Semantics, and Perfect Forwarding/27. Familiarize yourself with alternatives to overloading on universal references.md",
+    "Books/Effective Modern C++/5. Rvalue References, Move Semantics, and Perfect Forwarding/26. Avoid overloading on universal references.md",
+    "Books/Effective Modern C++/5. Rvalue References, Move Semantics, and Perfect Forwarding/23. Understand std..move and std..forward.md",
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823200658.png",
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823204236.png",
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823201454.png",
-    "Books/Game  Programming Patterns/6. Optimization Patterns/19. Object Pool.md",
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823192528.png",
-    "Books/Game  Programming Patterns/6. Optimization Patterns/18. Dirty Flag.md",
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823191850.png",
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823191830.png",
-    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823191812.png",
-    "Books/Game  Programming Patterns/6. Optimization Patterns/17. Data Locality.md",
-    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250822190949.png",
-    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250822190637.png",
-    "Books/Game  Programming Patterns/README.md",
-    "Books/Game  Programming Patterns/5. Decoupling Patterns/16. Service Locator.md",
     "Books/Game  Programming Patterns/6. Optimization Patterns",
-    "Books/Game  Programming Patterns/2. Design Patterns Revised/2. Command.md",
-    "Books/Game  Programming Patterns/5. Decoupling Patterns/15. Event Queue.md",
-    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250820144556.png",
-    "Books/Game  Programming Patterns/5. Decoupling Patterns/14. Component.md",
-    "Books/Game  Programming Patterns/2. Design Patterns Revised/4. Observer.md",
-    "Books/Game  Programming Patterns/4. Behavioral Patterns/13. Type Object.md",
     "Books/Game  Programming Patterns/5. Decoupling Patterns",
-    "Books/Game  Programming Patterns/4. Behavioral Patterns/12. Subclass Sandbox.md",
-    "Books/Game  Programming Patterns/4. Behavioral Patterns/11. Bytecode.md",
-    "Books/Game  Programming Patterns/3. Sequencing Patterns/10. Update Method.md",
-    "Books/Game  Programming Patterns/3. Sequencing Patterns/9. Game Loop.md",
-    "Books/Game  Programming Patterns/3. Sequencing Patterns/8. Double Buffer.md",
-    "Books/Game  Programming Patterns/2. Design Patterns Revised/7. State.md",
-    "Books/Game  Programming Patterns/2. Design Patterns Revised/6. Singleton.md",
-    "Books/Game  Programming Patterns/2. Design Patterns Revised/5. Prototype.md",
-    "Books/Game  Programming Patterns/2. Design Patterns Revised/3. Flyweight.md",
-    "Books/100 Go Mistakes and How to Avoid Them/6. Functions and methods.md",
-    "Books/100 Go Mistakes and How to Avoid Them/3. Data types.md",
-    "Books/100 Go Mistakes and How to Avoid Them/2. Code and project organization.md",
-    "Books/100 Go Mistakes and How to Avoid Them/1. Go. Simple to learn but hard to master.md",
-    "Books/100 Go Mistakes and How to Avoid Them/12. Optimizations.md",
     "Books/Game  Programming Patterns/4. Behavioral Patterns",
     "Books/Game  Programming Patterns/3. Sequencing Patterns",
     "Books/Game  Programming Patterns/ZZIMGS",
     "Books/Game  Programming Patterns/1. Introduction",
     "Books/Game  Programming Patterns/2. Design Patterns Revised",
-    "Books/Game  Programming Patterns",
-    "Books/100 Go Mistakes and How to Avoid Them",
-    "Books/Real World OCaml-Functional Programming for the Masses/III The Compiler and Runtime System"
+    "Books/Game  Programming Patterns"
   ]
 }
