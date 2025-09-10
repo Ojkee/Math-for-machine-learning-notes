@@ -206,9 +206,13 @@
   },
   "active": "49d07a6e41b572c9",
   "lastOpenFiles": [
-    "Books/Fluent Python/Part I. Data Structures/1. The Python Data Model.md",
-    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences.md",
+    "Books/Fluent Python/Part I. Data Structures/3. Dictionaries and Sets.md",
     "Books/Fluent Python/README.md",
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences.md",
+    "Books/Fluent Python/ZZIMGS/Pasted image 20250910190938.png",
+    "Books/Fluent Python/Part I. Data Structures/1. The Python Data Model.md",
+    "Books/Fluent Python/ZZIMGS/Pasted image 20250910184755.png",
+    "Books/Fluent Python/ZZIMGS",
     "Books/Effective Modern C++/README.md",
     "Books/100 Go Mistakes and How to Avoid Them/README.md",
     "Books/Game  Programming Patterns/2. Design Patterns Revised/3. Flyweight.md",
@@ -237,20 +241,16 @@
     "Books/Effective Modern C++/5. Rvalue References, Move Semantics, and Perfect Forwarding/28. Understand reference collapsing.md",
     "Books/Effective Modern C++/5. Rvalue References, Move Semantics, and Perfect Forwarding/27. Familiarize yourself with alternatives to overloading on universal references.md",
     "Books/Effective Modern C++/5. Rvalue References, Move Semantics, and Perfect Forwarding/26. Avoid overloading on universal references.md",
-    "Books/Effective Modern C++/5. Rvalue References, Move Semantics, and Perfect Forwarding/23. Understand std..move and std..forward.md",
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823200658.png",
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823204236.png",
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823201454.png",
     "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823192528.png",
-    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823191850.png",
-    "Books/Game  Programming Patterns/ZZIMGS/Pasted image 20250823191830.png",
     "Books/Game  Programming Patterns/6. Optimization Patterns",
     "Books/Game  Programming Patterns/5. Decoupling Patterns",
     "Books/Game  Programming Patterns/4. Behavioral Patterns",
     "Books/Game  Programming Patterns/3. Sequencing Patterns",
     "Books/Game  Programming Patterns/ZZIMGS",
     "Books/Game  Programming Patterns/1. Introduction",
-    "Books/Game  Programming Patterns/2. Design Patterns Revised",
-    "Books/Game  Programming Patterns"
+    "Books/Game  Programming Patterns/2. Design Patterns Revised"
   ]
 }
