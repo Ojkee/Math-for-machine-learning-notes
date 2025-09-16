@@ -1,0 +1,1 @@
+Port numbers are 16-bit nonnegative integers (i.e., range 0-65535). These number are abstract and to not refer to anything physical. Instead, each IP address has 65536 associated port numbers for each transport protocol that uses port numbers, and they are used for determining the correct receiving application.
