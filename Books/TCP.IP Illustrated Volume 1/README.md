@@ -1,7 +1,7 @@
 # TCP/IP Illustrated Volume 1: Protocols
 
 Obsidian vault notes for this book:
-https://dev.realworldocaml.org/
+https://www.r-5.org/files/books/computers/internals/net/Richard_Stevens-TCP-IP_Illustrated-EN.pd
 
 # Chapters
 ### 1. Introduction
