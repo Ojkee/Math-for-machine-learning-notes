@@ -1,0 +1,3 @@
+Packet-filtering firewalls act as routers that selectively drop packets. Other types of firewalls, called proxy firewalls, are not really Internet routers in the true sense. Instead, they are essentially hosts running one or more application-layer gateways (ALGs)—hosts with more than one network interface that relay traffic of certain types between one connection/association and another at the application layer. They do not typically perform IP forwarding as routers do, although more sophisticated proxy firewalls are now available that combine various functions.
+
+![[Pasted image 20250919175929.png]]

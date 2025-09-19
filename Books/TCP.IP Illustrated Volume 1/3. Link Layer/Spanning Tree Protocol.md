@@ -1,0 +1,3 @@
+STP works by disabling certain ports at each bridge so that topological loops are avoided (i.e., no duplicate paths between bridges are permitted), yet the topology is not partitioned—all stations can be reached. Mathematically, a spanning tree is a collection of all of the nodes and some of the edges of a graph such that there is a path or route from any node to any other node (spanning the graph), but there are no loops (the edge set forms a tree). There can be many spanning trees on a graph. STP finds one of them for the graph formed by bridges as nodes and links as edges.
+
+![[Pasted image 20250918201905.png]]

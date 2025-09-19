@@ -1,0 +1,1 @@
+Early Ethernet mode. Uses a shared cable, so data can travel in only one direction at a time. Only one station can send a frame at any given moment; others must wait. Collisions are possible if two stations transmit simultaneously.

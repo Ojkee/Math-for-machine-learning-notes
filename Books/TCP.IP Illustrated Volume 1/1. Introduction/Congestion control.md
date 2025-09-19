@@ -1,0 +1,1 @@
+Comprises a number of techniques whereby a sender is limited to a sending rate in order to avoid overwhelming the network.

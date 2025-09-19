@@ -1,0 +1,1 @@
+No guarantee that [[Datagram]] gets to its destination successfully. Doesn't drop the [[Packet|packets]] unnecessarily, but provides no guarantees as to the fate of the packets it attempts to deliver.

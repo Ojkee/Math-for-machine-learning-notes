@@ -1,3 +1,5 @@
+Classless Inter-Domain Routing.
+
 A method for allocating IP addresses and routing, introduced in 1993. Replaced the old classful system (Class A/B/C with fixed masks). Uses the format address/prefix length (e.g., 192.168.0.0/23) instead of fixed classes.
 
 Benefits:

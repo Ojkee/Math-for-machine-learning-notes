@@ -1,0 +1,1 @@
+In case of storing too many frames for too long Flow control signals to the sender that it must slow down its transmission rate, although the specification leaves the details of this to the implementation. Ethernet uses an implementation of flow control called PAUSE message.

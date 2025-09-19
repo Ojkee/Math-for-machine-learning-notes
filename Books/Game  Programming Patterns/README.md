@@ -32,3 +32,6 @@ https://gameprogrammingpatterns.com/contents.html
 
 ### 6. Optimization Patterns
 [[17. Data Locality]]
+[[18. Dirty Flag]]
+[[19. Object Pool]]
+[[20. Spatial Partition]]

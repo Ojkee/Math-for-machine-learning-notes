@@ -1,0 +1,1 @@
+Modern Ethernet mode. Uses a dedicated point-to-point link, so data can travel in both directions at the same time. No collisions occur, and throughput can reach the sum of send and receive bandwidth.
