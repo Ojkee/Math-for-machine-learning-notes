@@ -1,0 +1,1 @@
+[[Caching]] also applies for unsuccessful resolutions. If a request for a particular domain name fails to return a record, this fact is also cached.

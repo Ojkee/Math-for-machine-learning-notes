@@ -24,4 +24,6 @@ https://www.r-5.org/files/books/computers/internals/net/Richard_Stevens-TCP-IP_I
 
 ### 10. User Datagram Protocol (UDP) and IP Fragmentation
 [[10. Summary]]
+### 11. Name Resolution and the Domain Name System (DNS)
+[[11. Summary]]
 

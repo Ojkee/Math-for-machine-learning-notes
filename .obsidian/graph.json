@@ -5,13 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Uni-Math/Algebra I\"  ",
+      "query": "path:Books  ",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Papers  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431511
       }
     }
   ],

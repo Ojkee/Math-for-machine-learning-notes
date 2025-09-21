@@ -1,0 +1,8 @@
+Text Records
+
+For outgoing e-mail, [[MX]] records allow the [[DNS]] to help determine the names of mail relays and servers for a domain. More recently, the DNS has been leveraged by receiving mail agents to determine which relaying or sending mail servers are authorized to send mail from a particular domain name. This is used to help combat spam (unwanted e-mail) that is sent by a rogue mail agent pretending to be an authorized mail sender.
+
+E-mail received by a mail server is rejected, stored, or forwarded to another mail server. Rejection can happen for a number of reasons, such as a protocol error or lack of available storage space at the receiver. It can also be rejected because the sending mail client does not appear to be the proper one for sending e-mail. This capability is supported by the Sender Policy Framework (SPF) 
+
+There is another framework known as Sender ID that incorporates SPF’s functions. Version 1 of SPF uses DNS TXT or SPF resource records. Records are set up and published in the DNS by a domain’s owner to indicate which servers are authorized to send mail originating from the domain. Although the SPF record type is a more “proper” place to carry SPF-related information in some sense, some DNS client implementations do not process SPF records properly, so to avoid this complication TXT records are used. TXT records hold simple strings associated with a domain name. Historically they have held strings useful for human consumption, to aid in debugging or identifying the owner or location of a domain. Today, they are usually processed by programs such as the SPF application.
+
