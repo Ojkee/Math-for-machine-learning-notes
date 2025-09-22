@@ -1,3 +1,3 @@
-Splitting the channel back to the correnct recipients.
+Splitting the channel back to the correct recipients.
 
 Reverse process to [[Multiplexing]].

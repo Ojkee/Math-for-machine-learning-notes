@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/11. Summary.md",
+                "file": "Books/TCP.IP Illustrated Volume 1/4. ARP. Address Resolution Protocol/4. Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Summary"
+              "title": "4. Summary"
             }
           }
         ]
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 251.5
   },
   "right": {
     "id": "cda3adf6bf0b37af",
@@ -204,42 +204,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f0ba17650598f26",
+  "active": "794c5fa3909b0417",
   "lastOpenFiles": [
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/NAPTR.md",
+    "Books/TCP.IP Illustrated Volume 1/3. Link Layer/WoL.md",
+    "Books/TCP.IP Illustrated Volume 1/3. Link Layer/VLAN.md",
+    "Books/TCP.IP Illustrated Volume 1/3. Link Layer/Spanning Tree Protocol.md",
+    "Books/TCP.IP Illustrated Volume 1/3. Link Layer/Link Aggregation.md",
+    "Books/TCP.IP Illustrated Volume 1/3. Link Layer/Half Duplex.md",
+    "Books/TCP.IP Illustrated Volume 1/3. Link Layer/Full Duplex.md",
+    "Books/TCP.IP Illustrated Volume 1/3. Link Layer/CSMA.CD.md",
+    "Books/TCP.IP Illustrated Volume 1/3. Link Layer/Bridges and Switches.md",
+    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/Unicast.md",
+    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/Prefix.md",
+    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/Multicast.md",
+    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/Mask.md",
+    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/IPv6 Address.md",
+    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/IPv4 Address.md",
+    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/IID.md",
+    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/CIDR.md",
+    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/2. Summary.md",
+    "Books/TCP.IP Illustrated Volume 1/1. Introduction/TCP.IP.md",
+    "Books/TCP.IP Illustrated Volume 1/1. Introduction/Port Numbers.md",
+    "Books/TCP.IP Illustrated Volume 1/1. Introduction/Peer-to-peer.md",
+    "Books/TCP.IP Illustrated Volume 1/1. Introduction/PDU.md",
+    "Books/TCP.IP Illustrated Volume 1/1. Introduction/Encapsulation.md",
+    "Books/TCP.IP Illustrated Volume 1/1. Introduction/Demultiplexing.md",
+    "Books/TCP.IP Illustrated Volume 1/1. Introduction/Packet.md",
+    "Books/TCP.IP Illustrated Volume 1/1. Introduction/Multiplexing.md",
+    "Books/TCP.IP Illustrated Volume 1/1. Introduction/End-to-End Argument.md",
+    "Books/TCP.IP Illustrated Volume 1/4. ARP. Address Resolution Protocol",
+    "Books/TCP.IP Illustrated Volume 1/3. Link Layer/Untitled",
     "Books/TCP.IP Illustrated Volume 1/ZZIMGS/Pasted image 20250921181428.png",
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/SRV.md",
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/TXT.md",
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/MX.md",
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/SOA.md",
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/Zones.md",
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/CNAME.md",
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/Domain hack.md",
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/PTR.md",
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/DNS.md",
-    "Books/TCP.IP Illustrated Volume 1/5. The Internet Protocol (IP)/IPv4 datagram.md",
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/DNS Protocol.md",
     "Books/TCP.IP Illustrated Volume 1/ZZIMGS/Pasted image 20250921123202.png",
     "Untitled.base",
     "Untitled 1.base",
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/Caching.md",
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/Negative caching.md",
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/Delegation.md",
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/11. Summary.md",
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/DNS Name Space.md",
-    "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)/TLD.md",
     "Books/TCP.IP Illustrated Volume 1/ZZIMGS/Pasted image 20250921003224.png",
-    "Books/TCP.IP Illustrated Volume 1/README.md",
     "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)",
-    "Books/TCP.IP Illustrated Volume 1/10. User Datagram Protocol (UDP) and IP Fragmentation/Teredo.md",
     "Books/TCP.IP Illustrated Volume 1/ZZIMGS/Pasted image 20250919215240.png",
-    "Books/TCP.IP Illustrated Volume 1/10. User Datagram Protocol (UDP) and IP Fragmentation/10. Summary.md",
-    "Books/TCP.IP Illustrated Volume 1/1. Introduction/Packet.md",
-    "Books/TCP.IP Illustrated Volume 1/10. User Datagram Protocol (UDP) and IP Fragmentation/UDP datagram.md",
     "Books/TCP.IP Illustrated Volume 1/ZZIMGS/Pasted image 20250919214500.png",
-    "Books/TCP.IP Illustrated Volume 1/10. User Datagram Protocol (UDP) and IP Fragmentation/UDP.md",
     "Books/TCP.IP Illustrated Volume 1/ZZIMGS/Pasted image 20250919211502.png",
-    "Papers/README.md",
     "Books/TCP.IP Illustrated Volume 1/10. User Datagram Protocol (UDP) and IP Fragmentation",
     "Books/TCP.IP Illustrated Volume 1/ZZIMGS/Pasted image 20250919175929.png",
     "Books/TCP.IP Illustrated Volume 1/ZZIMGS/Pasted image 20250919175839.png",
@@ -248,8 +251,6 @@
     "Books/TCP.IP Illustrated Volume 1/ZZIMGS/Pasted image 20250919170748.png",
     "Books/TCP.IP Illustrated Volume 1/5. The Internet Protocol (IP)",
     "Books/TCP.IP Illustrated Volume 1/3. Link Layer",
-    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture",
-    "Books/TCP.IP Illustrated Volume 1/ZZIMGS",
-    "Books/TCP.IP Illustrated Volume 1/1. Introduction"
+    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture"
   ]
 }
