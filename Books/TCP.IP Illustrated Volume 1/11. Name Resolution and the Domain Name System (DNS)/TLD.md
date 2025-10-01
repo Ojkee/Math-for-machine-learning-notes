@@ -1,5 +1,4 @@
 
-
 These form the top levels of a naming tree:
 - generic (gTLD)
 - country code (ccTLD)

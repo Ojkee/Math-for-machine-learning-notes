@@ -11,7 +11,7 @@ https://www.r-5.org/files/books/computers/internals/net/Richard_Stevens-TCP-IP_I
 ### 3. Link Layer
 [[3. Summary]]
 ### 4. ARP: Address Resolution Protocol
-
+[[4. Summary]]
 ### 5. The Internet Protocol (IP)
 [[5. Summary]]
 ### 6. System Configuration: DHCP and Autoconfiguration
