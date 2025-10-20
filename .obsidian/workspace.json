@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d3bbe57bf35772f6",
+        "id": "14e6e4dbce459ec6",
         "type": "tabs",
         "children": [
           {
-            "id": "9977dabb4c9a16df",
+            "id": "983a74d889287922",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Fluent Python/README.md",
+                "file": "Docker/Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Commands"
             }
           }
         ]
@@ -204,21 +204,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9977dabb4c9a16df",
+  "active": "983a74d889287922",
   "lastOpenFiles": [
     "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders.md",
+    "Docker/Commands.md",
+    "Docker",
     "Books/Fluent Python/Part I. Data Structures/4. Unicode Text Versus Bytes.md",
-    "Pasted image 20251003185704.png",
-    "Books/Fluent Python/ZZIMGS/Pasted image 20251003185618.png",
-    "Books/Fluent Python/ZZIMGS/Pasted image 20251003184545.png",
-    "Books/Fluent Python/ZZIMGS/Pasted image 20251003184304.png",
-    "Books/Fluent Python/README.md",
-    "Books/Fluent Python/Part I. Data Structures/3. Dictionaries and Sets.md",
-    "Books/Fluent Python/Part I. Data Structures/1. The Python Data Model.md",
     "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences.md",
+    "Books/Game Programming Patterns/2. Design Patterns Revised/5. Prototype.md",
+    "Books/Fluent Python/Part I. Data Structures/3. Dictionaries and Sets.md",
+    "Books/Game Programming Patterns/2. Design Patterns Revised/4. Observer.md",
+    "Books/Game Programming Patterns/6. Optimization Patterns/19. Object Pool.md",
+    "Books/Game Programming Patterns/6. Optimization Patterns/18. Dirty Flag.md",
+    "Books/Game Programming Patterns/6. Optimization Patterns/17. Data Locality.md",
+    "Books/Fluent Python/ZZIMGS/Pasted image 20250910184755.png",
+    "Books/Fluent Python/ZZIMGS/Pasted image 20250910190938.png",
+    "Books/Fluent Python/ZZIMGS/Pasted image 20251003184304.png",
+    "Books/Fluent Python/ZZIMGS/Pasted image 20251003184545.png",
+    "Books/Fluent Python/ZZIMGS/Pasted image 20251003185618.png",
+    "Books/Fluent Python/ZZIMGS/Pasted image 20251003185704.png",
+    "Books/Fluent Python/README.md",
+    "Books/Fluent Python/Part I. Data Structures/1. The Python Data Model.md",
     "Papers/README.md",
-    "Books/Game  Programming Patterns/2. Design Patterns Revised/7. State.md",
-    "Books/Game  Programming Patterns/2. Design Patterns Revised/4. Observer.md",
+    "Books/Game Programming Patterns/2. Design Patterns Revised/7. State.md",
     "Books/TCP.IP Illustrated Volume 1/5. The Internet Protocol (IP)/Checksum.md",
     "Books/TCP.IP Illustrated Volume 1/5. The Internet Protocol (IP)/IPv6 datagram.md",
     "Books/TCP.IP Illustrated Volume 1/5. The Internet Protocol (IP)/IPv4 datagram.md",
@@ -231,11 +239,6 @@
     "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/Mask.md",
     "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/IPv4 Address.md",
     "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/IID.md",
-    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/CIDR.md",
-    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/Broadcast.md",
-    "Books/TCP.IP Illustrated Volume 1/1. Introduction/TCP.IP.md",
-    "Books/TCP.IP Illustrated Volume 1/1. Introduction/Port Numbers.md",
-    "Books/TCP.IP Illustrated Volume 1/1. Introduction/Peer-to-peer.md",
     "Books/TCP.IP Illustrated Volume 1/4. ARP. Address Resolution Protocol",
     "Books/TCP.IP Illustrated Volume 1/3. Link Layer/Untitled",
     "Books/TCP.IP Illustrated Volume 1/ZZIMGS/Pasted image 20250921181428.png",
@@ -245,12 +248,9 @@
     "Books/TCP.IP Illustrated Volume 1/ZZIMGS/Pasted image 20250921003224.png",
     "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)",
     "Books/TCP.IP Illustrated Volume 1/ZZIMGS/Pasted image 20250919215240.png",
-    "Books/TCP.IP Illustrated Volume 1/ZZIMGS/Pasted image 20250919214500.png",
-    "Books/TCP.IP Illustrated Volume 1/ZZIMGS/Pasted image 20250919211502.png",
     "Books/TCP.IP Illustrated Volume 1/10. User Datagram Protocol (UDP) and IP Fragmentation",
     "Books/TCP.IP Illustrated Volume 1/7. Firewalls and Network Address Translation (NAT)",
     "Books/TCP.IP Illustrated Volume 1/5. The Internet Protocol (IP)",
-    "Books/TCP.IP Illustrated Volume 1/3. Link Layer",
-    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture"
+    "Books/TCP.IP Illustrated Volume 1/3. Link Layer"
   ]
 }
