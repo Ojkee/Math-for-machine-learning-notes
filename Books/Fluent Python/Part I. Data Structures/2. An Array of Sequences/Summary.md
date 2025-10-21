@@ -33,7 +33,7 @@
 
 #### Examples
 - [[Tuple and list unpacking]]
-- [[Unpacking in pattern matching]]
+- [[Tuples and lists pattern matching unpacking]]
 
 --------------------
 
