@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Fluent Python/Part I. Data Structures/6. Object References, Mutability, and Recycling/Summary.md",
+                "file": "Books/Fluent Python/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "README"
             }
           }
         ]
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 330.5
   },
   "right": {
     "id": "cda3adf6bf0b37af",
@@ -204,11 +204,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "983a74d889287922",
+  "active": "794c5fa3909b0417",
   "lastOpenFiles": [
+    "Books/Fluent Python/Part II. Functions as Objects/7. Functions as First-Class Objects",
+    "Books/Fluent Python/Part II. Functions as Objects",
+    "Books/Fluent Python/Part I. Data Structures/6. Object References, Mutability, and Recycling/Summary.md",
     "Books/Fluent Python/Part I. Data Structures/6. Object References, Mutability, and Recycling/Copying immutable objects.md",
     "Books/Fluent Python/Part I. Data Structures/6. Object References, Mutability, and Recycling/Mutable objects as function parameters.md",
-    "Books/Fluent Python/Part I. Data Structures/6. Object References, Mutability, and Recycling/Summary.md",
     "Books/Fluent Python/Part I. Data Structures/6. Object References, Mutability, and Recycling/weakref.md",
     "Books/Fluent Python/Part I. Data Structures/6. Object References, Mutability, and Recycling/del.md",
     "Books/Fluent Python/Part I. Data Structures/6. Object References, Mutability, and Recycling/Function Parameters as References.md",
@@ -236,7 +238,6 @@
     "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/collections.namedtuple as dict.md",
     "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/dataclass.md",
     "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/typing.NamedTuple.md",
-    "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/collections.namedtuple.md",
     "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders",
     "Books/Fluent Python/Part I. Data Structures/4. Unicode Text Versus Bytes",
     "Books/Fluent Python/Part I. Data Structures/3. Dictionaries and Sets",
@@ -250,7 +251,6 @@
     "Books/Fluent Python/ZZIMGS/Pasted image 20251003185618.png",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251003185704.png",
     "Books/TCP.IP Illustrated Volume 1/4. ARP. Address Resolution Protocol",
-    "Books/TCP.IP Illustrated Volume 1/3. Link Layer/Untitled",
-    "Untitled.base"
+    "Books/TCP.IP Illustrated Volume 1/3. Link Layer/Untitled"
   ]
 }

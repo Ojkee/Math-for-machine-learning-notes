@@ -12,5 +12,6 @@ https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/
 [[Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/Summary|5. Data Class Builders]]
 [[Books/Fluent Python/Part I. Data Structures/6. Object References, Mutability, and Recycling/Summary|6. Object References, Mutability, and Recycling]]
 
-### Part II. 
+### Part II. Functions as Objects
+
 
