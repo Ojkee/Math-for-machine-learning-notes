@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Commands.md",
+                "file": "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands"
+              "title": "Summary"
             }
           }
         ]
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 259.5
   },
   "right": {
     "id": "cda3adf6bf0b37af",
@@ -206,39 +206,41 @@
   },
   "active": "983a74d889287922",
   "lastOpenFiles": [
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences/Deque.md",
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences/Summary.md",
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences/Numpy array.md",
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences/Sorting.md",
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences/Array.md",
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences/Slicing.md",
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences/Repeated concatenation.md",
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences/Unpacking in pattern matching.md",
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences/Tuple and list unpacking.md",
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences/Tuples as unnamed records.md",
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences/Tuples contents mutability.md",
+    "Books/Fluent Python/Part I. Data Structures/1. The Python Data Model/Implementing special methods.md",
+    "Books/Fluent Python/Part I. Data Structures/1. The Python Data Model/Operator overloading.md",
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences/Generator expressions.md",
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences/List comprehensions.md",
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences/Hashing tuples.md",
+    "Books/Fluent Python/README.md",
+    "Books/Fluent Python/Part I. Data Structures/1. The Python Data Model/Summary.md",
+    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences",
+    "Books/Fluent Python/Part I. Data Structures/1. The Python Data Model",
     "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders.md",
+    "Books/Fluent Python/Part I. Data Structures/3. Dictionaries and Sets.md",
+    "Books/Fluent Python/Part I. Data Structures/4. Unicode Text Versus Bytes.md",
     "Docker/Commands.md",
     "Docker",
-    "Books/Fluent Python/Part I. Data Structures/4. Unicode Text Versus Bytes.md",
-    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences.md",
     "Books/Game Programming Patterns/2. Design Patterns Revised/5. Prototype.md",
-    "Books/Fluent Python/Part I. Data Structures/3. Dictionaries and Sets.md",
     "Books/Game Programming Patterns/2. Design Patterns Revised/4. Observer.md",
     "Books/Game Programming Patterns/6. Optimization Patterns/19. Object Pool.md",
     "Books/Game Programming Patterns/6. Optimization Patterns/18. Dirty Flag.md",
-    "Books/Game Programming Patterns/6. Optimization Patterns/17. Data Locality.md",
     "Books/Fluent Python/ZZIMGS/Pasted image 20250910184755.png",
     "Books/Fluent Python/ZZIMGS/Pasted image 20250910190938.png",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251003184304.png",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251003184545.png",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251003185618.png",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251003185704.png",
-    "Books/Fluent Python/README.md",
-    "Books/Fluent Python/Part I. Data Structures/1. The Python Data Model.md",
-    "Papers/README.md",
-    "Books/Game Programming Patterns/2. Design Patterns Revised/7. State.md",
-    "Books/TCP.IP Illustrated Volume 1/5. The Internet Protocol (IP)/Checksum.md",
-    "Books/TCP.IP Illustrated Volume 1/5. The Internet Protocol (IP)/IPv6 datagram.md",
-    "Books/TCP.IP Illustrated Volume 1/5. The Internet Protocol (IP)/IPv4 datagram.md",
-    "Books/TCP.IP Illustrated Volume 1/5. The Internet Protocol (IP)/IP.md",
-    "Books/TCP.IP Illustrated Volume 1/5. The Internet Protocol (IP)/Fragmenting.md",
-    "Books/TCP.IP Illustrated Volume 1/5. The Internet Protocol (IP)/5. Summary.md",
-    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/Unicast.md",
-    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/Prefix.md",
-    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/Multicast.md",
-    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/Mask.md",
-    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/IPv4 Address.md",
-    "Books/TCP.IP Illustrated Volume 1/2. The Internet Address Architecture/IID.md",
     "Books/TCP.IP Illustrated Volume 1/4. ARP. Address Resolution Protocol",
     "Books/TCP.IP Illustrated Volume 1/3. Link Layer/Untitled",
     "Books/TCP.IP Illustrated Volume 1/ZZIMGS/Pasted image 20250921181428.png",
@@ -249,8 +251,6 @@
     "Books/TCP.IP Illustrated Volume 1/11. Name Resolution and the Domain Name System (DNS)",
     "Books/TCP.IP Illustrated Volume 1/ZZIMGS/Pasted image 20250919215240.png",
     "Books/TCP.IP Illustrated Volume 1/10. User Datagram Protocol (UDP) and IP Fragmentation",
-    "Books/TCP.IP Illustrated Volume 1/7. Firewalls and Network Address Translation (NAT)",
-    "Books/TCP.IP Illustrated Volume 1/5. The Internet Protocol (IP)",
-    "Books/TCP.IP Illustrated Volume 1/3. Link Layer"
+    "Books/TCP.IP Illustrated Volume 1/7. Firewalls and Network Address Translation (NAT)"
   ]
 }
