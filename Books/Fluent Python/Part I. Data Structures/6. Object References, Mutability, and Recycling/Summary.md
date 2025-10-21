@@ -1,8 +1,20 @@
 - Every Python object has an identity, a type, and a value. Only the value of an object may change over time. (Actually the type of an object may be changed by merely assigning a different class to its `__class__` attribute, but that is pure evil.)
 
+![[Pasted image 20251021231123.png]]
+
+#### Examples
+- [[Variable binding]]
+- [[Identity, Equality, and Aliases]]
+- [[Compare with singletons]]
+
 --------------------
 
-- If two variables refer to immutable objects that have equal values (a == b is True), in practice it rarely matters if they refer to copies or are aliases referring to the same object, because the value of an immutable object does not change, with one exception. The exception being immutable collections such as tuples: if an immutable collection holds references to mutable items, then its value may actually change when the value of a mutable item changes. In practice, this scenario is not so common. What never changes in an immutable collection are the identities of the objects within. The frozenset class does not suffer from this problem because it can only hold hashable elements, and the value of hashable objects cannot ever change, by definition.
+- If two variables refer to immutable objects that have equal values (`a == b` is `True`), in practice it rarely matters if they refer to copies or are aliases referring to the same object, because the value of an immutable object does not change, with one exception. The exception being immutable collections such as tuples: if an immutable collection holds references to mutable items, then its value may actually change when the value of a mutable item changes. In practice, this scenario is not so common. What never changes in an immutable collection are the identities of the objects within. The `frozenset` class does not suffer from this problem because it can only hold hashable elements, and the value of hashable objects cannot ever change, by definition.
+
+#### Examples
+- [[The Relative Immutability of Tuples]]
+- [[Shallow copy as default]]
+- [[Deepcopy handling of cyclic references]]
 
 --------------------
 
@@ -13,13 +25,23 @@
 	- Function parameters are passed as aliases, which means the function may change any mutable object received as an argument. There is no way to prevent this, except making local copies or using immutable objects (e.g., passing a tuple instead of a list).
 	- Using mutable objects as default values for function parameters is dangerous because if the parameters are changed in place, then the default is changed, affecting every future call that relies on the default.
 
+#### Examples
+- [[Function Parameters as References]]
+- [[Mutable objects as function parameters]]
+- [[Copying immutable objects]]
 
 --------------------
 
 - In CPython, objects are discarded as soon as the number of references to them reaches zero. They may also be discarded if they form groups with cyclic references but not outside references.
 
+#### Examples
+- [[del]]
+
 --------------------
 
 - In some situations, it may be useful to hold a reference to an object that will not—by itself—keep an object alive. One example is a class that wants to keep track of all its current instances. This can be done with weak references, a low-level mechanism underlying the more useful collections `WeakValueDictionary`, `WeakKeyDictionary`, `WeakSet`, and the finalize function from the `weakref` module. 
+
+#### Example
+- [[weakref]]
 
 --------------------
