@@ -1,4 +1,4 @@
-# Effective Modern C++
+# Fluent Python
 
 Obsidian vault notes for this book:
 https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/
@@ -13,5 +13,6 @@ https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/
 [[Books/Fluent Python/Part I. Data Structures/6. Object References, Mutability, and Recycling/Summary|6. Object References, Mutability, and Recycling]]
 
 ### Part II. Functions as Objects
-
+[[Books/Fluent Python/Part II. Functions as Objects/7. Functions as First-Class Objects/Summary|7. Functions as First-Class Objects]]
+[[Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Summary|8. Type Hints in Functions]]
 
