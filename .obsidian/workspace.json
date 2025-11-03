@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Summary.md",
+                "file": "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/typing.NamedTuple.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "typing.NamedTuple"
             }
           }
         ]
@@ -206,8 +206,17 @@
   },
   "active": "7f1be27e52e84434",
   "lastOpenFiles": [
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Annotating Positional Only and Variadic Parameters.md",
+    "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/collections.namedtuple.md",
+    "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/dataclass default factory.md",
+    "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/dataclass type hints.md",
+    "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/typing.NamedTuple.md",
+    "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/typing.NamedTuple type hints.md",
+    "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/collections.namedtuple as dict.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Summary.md",
+    "Books/Fluent Python/README.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Summary.md",
+    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Annotating Positional Only and Variadic Parameters.md",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/NoReturn.md",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Variance in Callable types.md",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Callable.md",
@@ -224,16 +233,8 @@
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Basic Type Hints.md",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Consistent-with.md",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Duck Typing.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Generic Collections.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Generic Mappings.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Tuples as records with named fields.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Union.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Tuple as records.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Tuples as immutable sequences.md",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251030134547.png",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Optional.md",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Untitled",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Subtype-of.md",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions",
     "Books/Fluent Python/Part II. Functions as Objects/7. Functions as First-Class Objects",
     "Books/Fluent Python/Part II. Functions as Objects",
@@ -246,7 +247,6 @@
     "Books/Fluent Python/Part I. Data Structures/4. Unicode Text Versus Bytes",
     "Books/Fluent Python/Part I. Data Structures/3. Dictionaries and Sets",
     "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences",
-    "Books/Fluent Python/Part I. Data Structures/1. The Python Data Model",
     "Books/Fluent Python/ZZIMGS/Pasted image 20250910184755.png",
     "Books/Fluent Python/ZZIMGS/Pasted image 20250910190938.png",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251003184304.png",
