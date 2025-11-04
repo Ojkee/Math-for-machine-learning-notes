@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/nonlocal.md",
+                "file": "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nonlocal"
+              "title": "Summary"
             }
           }
         ]
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 321.5
   },
   "right": {
     "id": "cda3adf6bf0b37af",
@@ -206,15 +206,25 @@
   },
   "active": "7f1be27e52e84434",
   "lastOpenFiles": [
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/clock Decorator Class-Based.md",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Summary.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/clock Decorator with parameters.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/A Parameterized Registration Decorators.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Single Dispatch Generic Functions.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/lru_cache.md",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/nonlocal.md",
-    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Closures.md",
-    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Free variables.md",
-    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Registration Decorators.md",
-    "screenshot-2025-11-04_10-26-12.png",
-    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Variable Scope Rules.md",
-    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Decorators execution time.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/cache.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Stacked Decorators.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/clock Decorator with keyword arguments (functools.wraps).md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/clock Decorator.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Variable Lookup Logic.md",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Decorator 101.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Variable Scope Rules.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Registration Decorators.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Free variables.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Decorators execution time.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Closures.md",
+    "Books/Fluent Python/ZZIMGS/screenshot-2025-11-04_10-26-12.png",
     "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/typing.NamedTuple.md",
     "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/collections.namedtuple.md",
     "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/dataclass default factory.md",
@@ -224,16 +234,6 @@
     "Books/Fluent Python/README.md",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Summary.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Annotating Positional Only and Variadic Parameters.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/NoReturn.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Variance in Callable types.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Callable.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/TYPECHECKING and reveal_type().md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Static Protocols.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Parameterized Generics and TypeVar.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/abc.Iterable vs abc.Sequence.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Iterable.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Stub Files and the Typeshed Project.md",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251030134547.png",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Untitled",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions",
