@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/typing.NamedTuple.md",
+                "file": "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/nonlocal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "typing.NamedTuple"
+              "title": "nonlocal"
             }
           }
         ]
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 372.5
   },
   "right": {
     "id": "cda3adf6bf0b37af",
@@ -170,8 +170,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -180,8 +180,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           }
         ],
@@ -206,13 +206,21 @@
   },
   "active": "7f1be27e52e84434",
   "lastOpenFiles": [
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Summary.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/nonlocal.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Closures.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Free variables.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Registration Decorators.md",
+    "screenshot-2025-11-04_10-26-12.png",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Variable Scope Rules.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Decorators execution time.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Decorator 101.md",
+    "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/typing.NamedTuple.md",
     "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/collections.namedtuple.md",
     "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/dataclass default factory.md",
     "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/dataclass type hints.md",
-    "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/typing.NamedTuple.md",
     "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/typing.NamedTuple type hints.md",
     "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/collections.namedtuple as dict.md",
-    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Summary.md",
     "Books/Fluent Python/README.md",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Summary.md",
@@ -226,13 +234,6 @@
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/abc.Iterable vs abc.Sequence.md",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Iterable.md",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Stub Files and the Typeshed Project.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/The Any Type.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/The fall of numeric tower.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Abstract Base Classes.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/A Default Parameter Value.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Basic Type Hints.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Consistent-with.md",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Duck Typing.md",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251030134547.png",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Untitled",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions",
@@ -250,7 +251,6 @@
     "Books/Fluent Python/ZZIMGS/Pasted image 20250910184755.png",
     "Books/Fluent Python/ZZIMGS/Pasted image 20250910190938.png",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251003184304.png",
-    "Books/Fluent Python/ZZIMGS/Pasted image 20251003184545.png",
-    "Books/Fluent Python/ZZIMGS/Pasted image 20251003185618.png"
+    "Books/Fluent Python/ZZIMGS/Pasted image 20251003184545.png"
   ]
 }
