@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14e6e4dbce459ec6",
+        "id": "a2ea336a2a0203c3",
         "type": "tabs",
         "children": [
           {
-            "id": "7f1be27e52e84434",
+            "id": "3a5b45607663d924",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Summary.md",
+                "file": "Books/Fluent Python/Part III. Classes and Protocols/11. A Pythonic Object/Summary.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,8 +170,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -204,16 +204,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f1be27e52e84434",
+  "active": "3a5b45607663d924",
   "lastOpenFiles": [
+    "Books/Fluent Python/README.md",
+    "Books/Fluent Python/Part III. Classes and Protocols/11. A Pythonic Object/Summary.md",
+    "Books/Fluent Python/Part II. Functions as Objects/10. Design Patterns with First-Class Functions/Command Pattern.md",
+    "Books/Fluent Python/Part III. Classes and Protocols/11. A Pythonic Object",
+    "Books/Fluent Python/Part III. Classes and Protocols",
+    "Books/Fluent Python/Part II. Functions as Objects/10. Design Patterns with First-Class Functions/Summary.md",
+    "Pasted image 20251105225927.png",
+    "Books/Fluent Python/Part II. Functions as Objects/10. Design Patterns with First-Class Functions/Choosing Best Strategy Decorator.md",
+    "Books/Fluent Python/Part II. Functions as Objects/10. Design Patterns with First-Class Functions/Choosing Best Strategy globals.md",
+    "Books/Fluent Python/Part II. Functions as Objects/10. Design Patterns with First-Class Functions/Strategy Pattern functions.md",
+    "Books/Fluent Python/Part II. Functions as Objects/10. Design Patterns with First-Class Functions/Strategy Pattern classes.md",
+    "Books/Fluent Python/Part II. Functions as Objects/10. Design Patterns with First-Class Functions",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/clock Decorator Class-Based.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/cache.md",
+    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/A Parameterized Registration Decorators.md",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Summary.md",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/clock Decorator with parameters.md",
-    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/A Parameterized Registration Decorators.md",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Single Dispatch Generic Functions.md",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/lru_cache.md",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/nonlocal.md",
-    "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/cache.md",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Stacked Decorators.md",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/clock Decorator with keyword arguments (functools.wraps).md",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/clock Decorator.md",
@@ -225,15 +237,7 @@
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Decorators execution time.md",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Closures.md",
     "Books/Fluent Python/ZZIMGS/screenshot-2025-11-04_10-26-12.png",
-    "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/typing.NamedTuple.md",
-    "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/collections.namedtuple.md",
-    "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/dataclass default factory.md",
-    "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/dataclass type hints.md",
-    "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/typing.NamedTuple type hints.md",
-    "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders/collections.namedtuple as dict.md",
-    "Books/Fluent Python/README.md",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures",
-    "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Summary.md",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251030134547.png",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Untitled",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions",
@@ -245,12 +249,8 @@
     "Books/Fluent Python/ZZIMGS/Pasted image 20251021231123.png",
     "Books/Fluent Python/Part I. Data Structures/6. Object References, Mutability, and Recycling",
     "Books/Fluent Python/Part I. Data Structures/5. Data Class Builders",
-    "Books/Fluent Python/Part I. Data Structures/4. Unicode Text Versus Bytes",
-    "Books/Fluent Python/Part I. Data Structures/3. Dictionaries and Sets",
-    "Books/Fluent Python/Part I. Data Structures/2. An Array of Sequences",
     "Books/Fluent Python/ZZIMGS/Pasted image 20250910184755.png",
     "Books/Fluent Python/ZZIMGS/Pasted image 20250910190938.png",
-    "Books/Fluent Python/ZZIMGS/Pasted image 20251003184304.png",
-    "Books/Fluent Python/ZZIMGS/Pasted image 20251003184545.png"
+    "Books/Fluent Python/ZZIMGS/Pasted image 20251003184304.png"
   ]
 }

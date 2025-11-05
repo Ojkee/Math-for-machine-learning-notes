@@ -16,3 +16,7 @@ https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/
 [[Books/Fluent Python/Part II. Functions as Objects/7. Functions as First-Class Objects/Summary|7. Functions as First-Class Objects]]
 [[Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Summary|8. Type Hints in Functions]]
 [[Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures/Summary|9. Decorators and Closures]]
+[[Books/Fluent Python/Part II. Functions as Objects/10. Design Patterns with First-Class Functions/Summary|10. Design Patterns with First-Class Functions]]
+
+### Part III. Classes and Protocols
+[[Books/Fluent Python/Part III. Classes and Protocols/11. A Pythonic Object/Summary|11. A Pythonic Object]]
