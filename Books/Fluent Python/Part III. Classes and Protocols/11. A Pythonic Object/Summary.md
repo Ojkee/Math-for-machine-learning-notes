@@ -38,7 +38,7 @@ Simple is better than complex.
 - We saw that the Format Specification Mini-Language is extensible by implementing `__format__` method that parses a **format_spec** provided to the `format(obj, format_spec)` built-in or within replacement fields `'{:«format_spec»}'` in f-strings or strings used with the `str.format()` method.
 
 #### Examples
-- [[Formatting]]
+- [[Books/Fluent Python/Part III. Classes and Protocols/11. A Pythonic Object/Formatting]]
 - [[__format__]]
 
 --------------------

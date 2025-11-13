@@ -20,3 +20,4 @@ https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/
 
 ### Part III. Classes and Protocols
 [[Books/Fluent Python/Part III. Classes and Protocols/11. A Pythonic Object/Summary|11. A Pythonic Object]]
+[[Books/Fluent Python/Part III. Classes and Protocols/12. Special Methods for Sequences/Summary|12. Special Methods for Sequences]]

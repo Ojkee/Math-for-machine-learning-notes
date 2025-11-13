@@ -3,8 +3,7 @@ registry = set()
 
 def register(active=True):
 	def decorate(func):
-		print('running register'
-		f'(active={active})->decorate({func})')
+		print('running register' f'(active={active})->decorate({func})')
 		if active:
 			registry.add(func)
 		else:

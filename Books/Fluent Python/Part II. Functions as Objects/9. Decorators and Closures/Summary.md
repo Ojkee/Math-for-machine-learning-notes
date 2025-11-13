@@ -7,9 +7,6 @@
 
 - Registration decorators, though simple in essence, have real applications in Python frameworks. 
 
-#### Examples
-- [[Registration Decorators]]
-
 --------------------
 
 - Understanding how decorators actually work required covering the difference between import time and runtime, then diving into variable scoping, closures, and the new `nonlocal` declaration. Mastering closures and `nonlocal` is valuable not only to build decorators, but also to code event-oriented programs for GUIs or asynchronous I/O with callbacks, and to adopt a functional style when it makes sense.
