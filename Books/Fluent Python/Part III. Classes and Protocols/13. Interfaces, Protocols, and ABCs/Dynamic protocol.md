@@ -1,0 +1,1 @@
+The informal protocols Python always had. Dynamic protocols are implicit, defined by convention, and described in the documentation. Python’s most important dynamic protocols are supported by the interpreter itself, and are documented in the “Data Model” chapter of The Python Language Reference.
