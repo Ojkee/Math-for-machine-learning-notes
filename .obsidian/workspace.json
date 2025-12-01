@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs/Summary.md",
+                "file": "Books/Fluent Python/Part III. Classes and Protocols/14. Inheritance. For Better or for Worse/Coping with Inheritance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "Coping with Inheritance"
             }
           }
         ]
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 315.5
   },
   "right": {
     "id": "cda3adf6bf0b37af",
@@ -206,8 +206,21 @@
   },
   "active": "d118ddecd65af530",
   "lastOpenFiles": [
-    "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs/The numbers ABCs and Numeric Protocols.md",
+    "Books/Fluent Python/Part III. Classes and Protocols/14. Inheritance. For Better or for Worse/Summary.md",
+    "Books/Fluent Python/Part III. Classes and Protocols/14. Inheritance. For Better or for Worse/Coping with Inheritance.md",
+    "Books/Fluent Python/Part III. Classes and Protocols/14. Inheritance. For Better or for Worse/Multiple Inheritance in Tkinter.md",
+    "Books/Fluent Python/ZZIMGS/Pasted image 20251201203650.png",
+    "Books/Fluent Python/Part III. Classes and Protocols/14. Inheritance. For Better or for Worse/ThreadingMixIn.md",
+    "Books/Fluent Python/Part III. Classes and Protocols/14. Inheritance. For Better or for Worse/Multiples Inheritance and Method Resolution Order.md",
+    "Books/Fluent Python/Part III. Classes and Protocols/14. Inheritance. For Better or for Worse/Mixin Classes.md",
+    "Books/Fluent Python/ZZIMGS/Pasted image 20251201201307.png",
+    "Books/Fluent Python/Part III. Classes and Protocols/14. Inheritance. For Better or for Worse/Basic super() example.md",
+    "Books/Fluent Python/Part III. Classes and Protocols/14. Inheritance. For Better or for Worse/Inheritance from UserDict.md",
+    "Books/Fluent Python/README.md",
+    "Books/TCP.IP Illustrated Volume 1/5. The Internet Protocol (IP)/Fragmenting.md",
+    "Books/Fluent Python/Part III. Classes and Protocols/14. Inheritance. For Better or for Worse",
     "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs/Summary.md",
+    "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs/The numbers ABCs and Numeric Protocols.md",
     "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs/Designing and Extending Protocol.md",
     "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs/Supporting a Static Protocol.md",
     "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs/Limitations of Runtime Protocol Checks.md",
@@ -227,30 +240,17 @@
     "Books/Fluent Python/ZZIMGS/Pasted image 20251129170831.png",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251129170723.png",
     "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs/Goose typing.md",
-    "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs/EAFP.md",
-    "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs/Defensive Programming and 'Fail Fast'.md",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251129163717.png",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251129135418.png",
-    "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs/Implementing Sequence.md",
-    "Books/Fluent Python/Part III. Classes and Protocols/12. Special Methods for Sequences/Summary.md",
-    "Books/Fluent Python/Part III. Classes and Protocols/12. Special Methods for Sequences/A Slice-Aware __getitem__.md",
-    "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs/Monkey Patching. Implementing a Protocol at Runtime.md",
-    "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs/Static protocol.md",
-    "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs/Dynamic protocol.md",
-    "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs/The Typing Map.md",
     "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs",
-    "Books/Fluent Python/Part I. Data Structures/3. Dictionaries and Sets/Custom missing method.md",
     "Books/Fluent Python/Part III. Classes and Protocols/12. Special Methods for Sequences",
     "Books/Fluent Python/Part III. Classes and Protocols/11. A Pythonic Object",
     "Books/Fluent Python/Part III. Classes and Protocols",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251105225927.png",
     "Books/Fluent Python/Part II. Functions as Objects/10. Design Patterns with First-Class Functions",
-    "Books/Fluent Python/ZZIMGS/screenshot-2025-11-04_10-26-12.png",
     "Books/Fluent Python/Part II. Functions as Objects/9. Decorators and Closures",
-    "Books/Fluent Python/ZZIMGS/Pasted image 20251030134547.png",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions/Untitled",
     "Books/Fluent Python/Part II. Functions as Objects/8. Type Hints in Functions",
-    "Books/Fluent Python/Part II. Functions as Objects/7. Functions as First-Class Objects",
-    "Books/Fluent Python/Part II. Functions as Objects"
+    "Books/Fluent Python/Part II. Functions as Objects/7. Functions as First-Class Objects"
   ]
 }

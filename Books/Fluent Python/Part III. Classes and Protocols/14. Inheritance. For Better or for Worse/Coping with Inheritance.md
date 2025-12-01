@@ -1,0 +1,9 @@
+- Favor Object Composition over Class Inheritance
+- Understand Why Inheritance Is Used in Each Case
+	- Inheritance of interface creates a subtype, implying an “is-a” relationship. This is best done with ABCs.
+	- Inheritance of implementation avoids code duplication by reuse. Mixins can help with this.
+- Make Interfaces Explicit with ABCs 
+- Use Explicit Mixins for Code Reuse
+- Provide Aggregate Classes to Users (A class that is constructed primarily by inheriting from mixins and does not add its own structure or behavior is called an aggregate class.)
+- Subclass Only Classes Designed for Subclassing
+- Avoid Subclassing from Concrete Classes
