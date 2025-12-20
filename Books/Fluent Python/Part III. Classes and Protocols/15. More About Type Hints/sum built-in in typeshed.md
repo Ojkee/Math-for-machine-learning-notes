@@ -1,0 +1,6 @@
+```python
+@overload
+def sum(__iterable: Iterable[_T]) -> Union[_T, int]: ...
+@overload
+def sum(__iterable: Iterable[_T], start: _S) -> Union[_T, _S]: ...
+```
