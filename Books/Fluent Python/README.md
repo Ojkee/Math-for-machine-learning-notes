@@ -23,4 +23,8 @@ https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/
 [[Books/Fluent Python/Part III. Classes and Protocols/12. Special Methods for Sequences/Summary|12. Special Methods for Sequences]]
 [[Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs/Summary|13. Interfaces, Protocols, and ABCs]]
 [[Books/Fluent Python/Part III. Classes and Protocols/14. Inheritance. For Better or for Worse/Summary|14. Inheritance. For Better or for Worse]]
+[[Books/Fluent Python/Part III. Classes and Protocols/15. More About Type Hints/Summary|15. More About Type Hints]]
+[[Books/Fluent Python/Part III. Classes and Protocols/16. Operator Overloading/Summary|16. Operator Overloading/Summary]]
 
+### Part IV. Control Flow
+[[Books/Fluent Python/Part IV. Control Flow/17. Iterators, Generators, and Classic Coroutines/Summary|17. Iterators, Generators, and Classic Coroutines]]
