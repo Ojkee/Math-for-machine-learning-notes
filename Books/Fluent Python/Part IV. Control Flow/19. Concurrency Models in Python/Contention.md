@@ -1,0 +1,1 @@
+Dispute over a limited asset. Resource contention happens when multiple execution units try to access a shared resource—such as a lock or storage. There’s also CPU contention, when compute-intensive processes or threads must wait for the OS scheduler to give them a share of the CPU time.

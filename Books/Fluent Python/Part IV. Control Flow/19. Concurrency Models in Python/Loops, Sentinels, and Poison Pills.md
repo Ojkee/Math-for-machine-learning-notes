@@ -1,0 +1,5 @@
+ Looping indefinitely while taking items from a queue and processing each with a function that does the actual work. The loop ends when the queue produces a sentinel value. In this pattern, the sentinel that shuts down the worker is often called a “poison pill.”
+
+`None` is often used as a sentinel value, but it may be unsuitable if it can occur in the data stream. Calling object() is a common way to get a unique value to use as sentinel. However, that does not work across processes because Python objects must be serialized for inter-process communication, and when you pickle.dump and pickle.load an instance of object, the unpickled instance is distinct from the original: it doesn’t compare equal. A good alternative to None is the Ellipsis built-in object (a.k.a. ...), which survives serialization without losing its identity.
+
+Python’s standard library uses lots of different values as sentinels. PEP 661—Sentinel Values proposes a standard sentinel type. As of September 2021, it’s only a draft.
