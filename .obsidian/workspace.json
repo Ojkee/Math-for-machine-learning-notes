@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Fluent Python/Part IV. Control Flow/19. Concurrency Models in Python/Summary.md",
+                "file": "Books/Fluent Python/Part IV. Control Flow/20. Concurrent Executors/Summary.md",
                 "mode": "source",
                 "source": false
               },
@@ -206,8 +206,19 @@
   },
   "active": "1caf1702ac5f153b",
   "lastOpenFiles": [
-    "Books/Fluent Python/Part IV. Control Flow/19. Concurrency Models in Python/Primality check Multicore.md",
+    "Books/Fluent Python/Part IV. Control Flow/20. Concurrent Executors/Flags download ThreadPool with Error handling.md",
+    "Books/Fluent Python/Part IV. Control Flow/20. Concurrent Executors/Flags download Sequential with Error handling.md",
+    "Books/Fluent Python/Part IV. Control Flow/20. Concurrent Executors/Summary.md",
+    "Books/Fluent Python/Part IV. Control Flow/20. Concurrent Executors/Executor map Loiter.md",
+    "Books/Fluent Python/Part IV. Control Flow/20. Concurrent Executors/Primality checker Multicore ProcessPool.md",
+    "Books/Fluent Python/Part IV. Control Flow/20. Concurrent Executors/Flags download ThreadPool Futures.md",
+    "Books/Fluent Python/Part IV. Control Flow/20. Concurrent Executors/Flags download ThreadPool.md",
+    "Books/Fluent Python/Part IV. Control Flow/20. Concurrent Executors/Flags download ProcessPool Futures.md",
+    "Books/Fluent Python/Part IV. Control Flow/20. Concurrent Executors/Flags download Sequential.md",
+    "Books/Fluent Python/README.md",
     "Books/Fluent Python/Part IV. Control Flow/19. Concurrency Models in Python/Summary.md",
+    "Books/Fluent Python/Part IV. Control Flow/20. Concurrent Executors",
+    "Books/Fluent Python/Part IV. Control Flow/19. Concurrency Models in Python/Primality check Multicore.md",
     "Books/Fluent Python/Part IV. Control Flow/19. Concurrency Models in Python/Loops, Sentinels, and Poison Pills.md",
     "Books/Fluent Python/Part IV. Control Flow/19. Concurrency Models in Python/Primality check Sequential.md",
     "Books/Fluent Python/Part IV. Control Flow/19. Concurrency Models in Python/Power Napping with sleep(0).md",
@@ -222,17 +233,7 @@
     "Books/Fluent Python/Part IV. Control Flow/19. Concurrency Models in Python/Execution unit.md",
     "Books/Fluent Python/Part IV. Control Flow/19. Concurrency Models in Python/Parallelism.md",
     "Books/Fluent Python/Part IV. Control Flow/19. Concurrency Models in Python/Concurrency.md",
-    "Books/Fluent Python/Part IV. Control Flow/18. with, match, and else Blocks/LookingGlass context manager class.md",
-    "Books/Fluent Python/Part IV. Control Flow/18. with, match, and else Blocks/LookingGlass context manager as generator.md",
-    "Books/Fluent Python/README.md",
-    "Books/Pattern-recognition-and-machine-learning/README.md",
-    "Books/TCP.IP Illustrated Volume 1/5. The Internet Protocol (IP)/Forwarding.md",
     "Books/Fluent Python/Part IV. Control Flow/19. Concurrency Models in Python",
-    "Books/Fluent Python/Part IV. Control Flow/18. with, match, and else Blocks/Summary.md",
-    "Books/Fluent Python/Part IV. Control Flow/18. with, match, and else Blocks/Else after try catch.md",
-    "Books/Fluent Python/Part IV. Control Flow/18. with, match, and else Blocks/Else after for.md",
-    "Books/Fluent Python/Part IV. Control Flow/18. with, match, and else Blocks/Procedure. A Class Implementing a Closure.md",
-    "Books/Fluent Python/Part IV. Control Flow/18. with, match, and else Blocks/Scheme using pattern matching.md",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251227192755.png",
     "Books/Fluent Python/Part IV. Control Flow/18. with, match, and else Blocks",
     "Books/Fluent Python/ZZIMGS/Pasted image 20251226193536.png",
@@ -250,7 +251,6 @@
     "Books/Fluent Python/Part III. Classes and Protocols/15. More About Type Hints",
     "Books/Fluent Python/Part III. Classes and Protocols/14. Inheritance. For Better or for Worse",
     "Books/Fluent Python/Part III. Classes and Protocols/13. Interfaces, Protocols, and ABCs",
-    "Books/Fluent Python/Part III. Classes and Protocols/12. Special Methods for Sequences",
-    "Books/Fluent Python/Part III. Classes and Protocols/11. A Pythonic Object"
+    "Books/Fluent Python/Part III. Classes and Protocols/12. Special Methods for Sequences"
   ]
 }
